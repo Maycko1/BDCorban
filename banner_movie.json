@@ -2,113 +2,113 @@
 [
     {
 
-  		"bannerCategoryId": 1,
+  		"bannerCategoryId": "1",
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	"id": 1,
-        "imageUrl": "https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	"movieName": "EJEMPLO 01"
+ 	 	  "id": 1,
+      "imageUrl": "https://s1.significados.com/foto/navidad-union_bg.jpg",
+ 	 	  "movieName": "EJEMPLO 01"
  		},
 
  	{
 
-  		"bannerCategoryId": 1,
+  		"bannerCategoryId": "1",
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a", 
- 	 	"id": 2,
-        "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	"movieName": "EJEMPLO 02"
+ 	 	  "id": 2,
+      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
+ 	 	  "movieName": "EJEMPLO 02"
  		},
 
  	{
 
-  		"bannerCategoryId": 1,
+  		"bannerCategoryId": "1",
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	"id": 3,
-        "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	"movieName": "EJEMPLO 03"
+ 	 	  "id": 3,
+      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
+ 	 	  "movieName": "EJEMPLO 03"
  	},
 
     {
 
-  		"bannerCategoryId": 2,
+  		"bannerCategoryId": "2",
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	"id": 1,
-        "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	"movieName": "EJEMPLO 01"
+ 	 	  "id": 1,
+      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
+ 	 	  "movieName": "EJEMPLO 01"
  	},
 
 
     {
 
-  		"bannerCategoryId": 2,
+  		"bannerCategoryId": "2",
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	"id": 2,
-        "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	"movieName": "EJEMPLO 01"
+ 	 	  "id": 2,
+      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
+ 	 	  "movieName": "EJEMPLO 01"
  	},
 
     {
 
-  		"bannerCategoryId": 2,
+  		"bannerCategoryId": "2",
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	"id": 3,
-        "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	"movieName": "EJEMPLO 01"
+ 	 	  "id": 3,
+      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
+ 	 	  "movieName": "EJEMPLO 01"
  	},
 
  	{
 
-  		"bannerCategoryId": 3,
+  		"bannerCategoryId": "3",
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	"id": 1,
-        "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	"movieName": "EJEMPLO 01"
+ 	   	"id": 1,
+      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
+ 	 	  "movieName": "EJEMPLO 01"
  	},
 
 
     {
 
-  		"bannerCategoryId": 3,
+  		"bannerCategoryId": "3",
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	"id": 2,
-        "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	"movieName": "EJEMPLO 01"
+ 	 	  "id": 2,
+      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
+ 	 	  "movieName": "EJEMPLO 01"
  	},
 
     {
 
-  		"bannerCategoryId": 3,
+  		"bannerCategoryId": "3",
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	"id": 3,
-        "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	"movieName": "EJEMPLO 01"
+ 	 	  "id": 3,
+      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
+ 	 	  "movieName": "EJEMPLO 01"
  	},
 
     {
 
-  		"bannerCategoryId": 4,
+  		"bannerCategoryId": "4",
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	"id": 1,
-        "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	"movieName": "EJEMPLO 01"
+ 	 	  "id": 1,
+      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
+ 	 	  "movieName": "EJEMPLO 01"
  	},
 
 
     {
 
-  		"bannerCategoryId": 4,
+  		"bannerCategoryId": "4",
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	"id": 2,
-        "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	"movieName": "EJEMPLO 01"
+ 	 	  "id": 2,
+      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
+ 	    "movieName": "EJEMPLO 01"
  	},
 
     {
 
-  		"bannerCategoryId": 4,
+  		"bannerCategoryId": "4",
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	"id": 3,
-        "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	"movieName": "EJEMPLO 01"
+ 	 	  "id": 3,
+      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
+ 	 	  "movieName": "EJEMPLO 01"
  	}
 
 
