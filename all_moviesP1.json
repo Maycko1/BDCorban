@@ -3,7 +3,7 @@
 
 {
 	
-	"categoryId": 1,
+	"categoryId": "1",
 	"categoryTitle":"Esta Semana",
 	"categoryItemList": [
 {
@@ -45,7 +45,7 @@
 
   {
 	
-    "categoryId": 2,
+    "categoryId": "2",
 	"categoryTitle":"Esta Semana",
 	"categoryItemList": [
 
@@ -90,7 +90,7 @@
 
 {
 	
-	"categoryId": 3,
+	"categoryId": "3",
 	"categoryTitle":"Esta Semana",
 	"categoryItemList": [
 
@@ -134,7 +134,7 @@
 
   {
 	
-	"categoryId": 4,
+	"categoryId": "4",
 	"categoryTitle":"Esta Semana",
 	"categoryItemList": [
          
