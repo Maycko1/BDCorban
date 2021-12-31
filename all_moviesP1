@@ -4,15 +4,15 @@
 {
 	
 	"categoryId": 1,
-	categoryTitle:"Mas Recientes",
-	categoryItemList: [
+	"categoryTitle":"Esta Semana",
+	"categoryItemList": [
+{
 
-
-  		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
+  		  "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
  	 	  "id": 1,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "loloolol"
+          "imageUrl":"https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
+ 	 	  "movieName":"EJEMPLO Temas 02",
+          "descriPcion":"loloolol"
         },
 
         {
@@ -24,18 +24,9 @@
           "descriPcion": "hohohoho"
 
 
-       }
+       },
 
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 3,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       }
+       
        {
 
           "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
@@ -54,9 +45,11 @@
 
   {
 	
-	"categoryId": 2,
-	categoryTitle:"Esta Semana",
-	categoryItemList: [
+    "categoryId": 2,
+	"categoryTitle":"Esta Semana",
+	"categoryItemList": [
+
+       {
 
 
   		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
@@ -66,16 +59,7 @@
           "descriPcion": "loloolol"
         },
 
-        {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 2,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       }
+       
 
        {
 
@@ -86,7 +70,7 @@
           "descriPcion": "hohohoho"
 
 
-       }
+       },
 
        {
 
@@ -107,9 +91,10 @@
 {
 	
 	"categoryId": 3,
-	categoryTitle:"En el Mes",
-	categoryItemList: [
+	"categoryTitle":"Esta Semana",
+	"categoryItemList": [
 
+        {
 
   		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
  	 	  "id": 1,
@@ -127,18 +112,9 @@
           "descriPcion": "hohohoho"
 
 
-       }
+       },
 
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 3,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       }
+       
 
        {
 
@@ -159,8 +135,10 @@
   {
 	
 	"categoryId": 4,
-	categoryTitle:"Utimos Meses",
-	categoryItemList: [
+	"categoryTitle":"Esta Semana",
+	"categoryItemList": [
+         
+         {
 
 
   		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
@@ -170,16 +148,7 @@
           "descriPcion": "loloolol"
         },
 
-        {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 2,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       }
+       
 
        {
 
@@ -190,7 +159,7 @@
           "descriPcion": "hohohoho"
 
 
-       }
+       },
 
        {
 
