@@ -13,22 +13,22 @@
  	{
 
   		"bannerCategoryId": "1",
-  		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FServicio%20de%20Predicaci%C3%B3n.mp4?alt=media&token=a4a244f0-1137-4c06-a27f-6f341d425346", 
- 	 	  "id": 2,
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FServicio%20de%20Predicaci%C3%B3n.mp4?alt=media&token=a4a244f0-1137-4c06-a27f-6f341d425346", 
+      "id": 2,
       "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
- 	 	  "movieName": "Que escucha Dios de ti y de mi",
+      "movieName": "Que escucha Dios de ti y de mi",
       "descriPcion": "Predicador Pastor Carlos Ramos de Venezuela, Iglesia Biblica libertad, Pastor Roy Carrizales"
- 		},
+    },
 
- 	{
+  {
 
-  		"bannerCategoryId": "1",
-  		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FCulto%20Vespertino%20-%20Pastor%20Uriel%20Castro.mp4?alt=media&token=b0403b71-d89a-41bb-88a6-d690b88c7bed",
- 	 	  "id": 3,
+      "bannerCategoryId": "1",
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FCulto%20Vespertino%20-%20Pastor%20Uriel%20Castro.mp4?alt=media&token=b0403b71-d89a-41bb-88a6-d690b88c7bed",
+      "id": 3,
       "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
- 	 	  "movieName": "Los que aman a Dios",
+      "movieName": "Los que aman a Dios",
       "descriPcion": "Predicador: Pastor Uriel Castro, Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor Luis Ramos"
- 	},
+  },
 
     {
 
