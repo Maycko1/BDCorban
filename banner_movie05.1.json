@@ -67,7 +67,7 @@
   		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/conferencias%2FConferencia%20de%20Jovenes%20D1.mp4?alt=media&token=b1b87697-27aa-411d-a259-0d99218522de",
  	   	"id": 1,
       "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fprotegiendo%20nuestra%20herencia.jpg?alt=media&token=74329b4b-22cf-40ac-ad6c-0a5a9c692cf7",
- 	 	  "movieName": "Donde fue que te secaste Jvoven",
+ 	 	  "movieName": "Donde fue que te secaste Joven",
       "descriPcion": "Protegiendo Nuestra Herencia, Iglesia Bautista Betel, Pastor Dr. Elmer Fernández"
  	},
 
@@ -95,32 +95,31 @@
     {
 
   		"bannerCategoryId": "4",
-  		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 1,
-      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	  "movieName": "EJEMPLO 01",
-      "descriPcion": "kakkskakska"
- 	},
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FServicio%20del%20Domingo%20PM%2001_09_22.mp4?alt=media&token=b7518af3-bfee-4d3d-b611-932171d22de9",
+      "id": 1,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
+      "movieName": "El poder de la lengua",
+      "descriPcion": "Pastor Andrés Gómez, Primera Iglesia Bautista Hammond Indiana"
+    },
 
+  {
 
-    {
+      "bannerCategoryId": "4",
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FServicio%20de%20Predicaci%C3%B3n.mp4?alt=media&token=a4a244f0-1137-4c06-a27f-6f341d425346", 
+      "id": 2,
+      "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
+      "movieName": "Que escucha Dios de ti y de mi",
+      "descriPcion": "Predicador Pastor Carlos Ramos de Venezuela, Iglesia Biblica libertad, Pastor Roy Carrizales"
+    },
 
-  		"bannerCategoryId": "4",
-  		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 2,
-      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	    "movieName": "EJEMPLO 01",
-      "descriPcion": "kakkskakska"
- 	},
+  {
 
-    {
-
-  		"bannerCategoryId": "4",
-  		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 3,
-      "imageUrl":"https://s1.significados.com/foto/navidad-union_bg.jpg",
- 	 	  "movieName": "EJEMPLO 01",
-      "descriPcion": "kakkskakska"
+      "bannerCategoryId": "4",
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FCulto%20Vespertino%20-%20Pastor%20Uriel%20Castro.mp4?alt=media&token=b0403b71-d89a-41bb-88a6-d690b88c7bed",
+      "id": 3,
+      "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
+      "movieName": "Los que aman a Dios",
+      "descriPcion": "Predicador: Pastor Uriel Castro, Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor Luis Ramos"
  	}
 
 
