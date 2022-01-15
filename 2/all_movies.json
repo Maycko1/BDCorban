@@ -19,7 +19,7 @@
 
           "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FUna%20Iglesia%20Bautista%20(Bautista%20Fundamental).mp4?alt=media&token=5fdad080-95bd-4524-9a64-4750940546ea",
  	 	  "id": 2,
-          "imageUrl": "https://console.firebase.google.com/u/0/project/apipredicas/storage/apipredicas.appspot.com/files/~2FPastores",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
  	 	  "movieName": "¿Porque somos Bautistas?",
           "descriPcion": "Iglesia Bautista de Santa Ana, Pastor Ringo Ayala."
 
@@ -43,7 +43,7 @@
 
           "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FEl%20Tribunal%20de%20Cristo%20%20-%20Luis%20Parada.mp4?alt=media&token=7748761e-92ef-41f6-843f-02255234ae90",
         "id": 4,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_parada.png?alt=media&token=a1a1f0eb-bc06-49c2-acf5-b164a5ef5c73",
         "movieName": "El Tribunal de Cristo",
           "descriPcion": "Iglesia Bautista Bíblica de Long Beach, Luis Parada"
 
