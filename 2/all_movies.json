@@ -4,40 +4,63 @@
 {
 	
 	"categoryId": "1",
-	"categoryTitle":"Esta Semana",
+	"categoryTitle":"Doctrina Biblica",
 	"categoryItemList": [
 {
 
-  		  "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
+  		  "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2F%C2%BFPor%20qu%C3%A9%20Participar%20en%20Misiones-%20-%20Pastor%20Juan%20de%20Dios%20Garza.mp4?alt=media&token=4b0c46a1-0859-40da-a80b-0c72da4c0866",
  	 	  "id": 1,
-          "imageUrl":"https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ATMRpo1frFP3DbIeyi9St/3ec7d24171e05d31706317c66acdf810/AC_CrossoverStories_KA_960x540_ES.jpg",
- 	 	  "movieName":"EJEMPLO Temas 02",
-          "descriPcion":"loloolol"
+          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FJuan%20de%20Dios.png?alt=media&token=6983708e-ba98-4dce-b155-62407a9187d8",
+ 	 	  "movieName":"¿Por qué Participar en Misiones?",
+          "descriPcion":"Iglesia Bautista Fundamental Betesda, A.R., Pastor Juan de Dios Garza"
         },
 
         {
 
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FUna%20Iglesia%20Bautista%20(Bautista%20Fundamental).mp4?alt=media&token=5fdad080-95bd-4524-9a64-4750940546ea",
  	 	  "id": 2,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
+          "imageUrl": "https://console.firebase.google.com/u/0/project/apipredicas/storage/apipredicas.appspot.com/files/~2FPastores",
+ 	 	  "movieName": "¿Porque somos Bautistas?",
+          "descriPcion": "Iglesia Bautista de Santa Ana, Pastor Ringo Ayala."
 
 
        },
 
+          
+    {
+
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FG%C3%A9nesis%201-1%20__%20La%20Creaci%C3%B3n%20de%20la%20Tierra%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=62c620ca-0b1b-4a7c-837d-d79f8b71636d",
+        "id": 3,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
+        "movieName": "La Creación de la Tierra",
+          "descriPcion": "Iglesia Bautista de Santa Ana, Ringo Ayala"
+        },
+
        
+
        {
 
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 3,
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FEl%20Tribunal%20de%20Cristo%20%20-%20Luis%20Parada.mp4?alt=media&token=7748761e-92ef-41f6-843f-02255234ae90",
+        "id": 4,
           "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
+        "movieName": "El Tribunal de Cristo",
+          "descriPcion": "Iglesia Bautista Bíblica de Long Beach, Luis Parada"
+
+
+       },
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FEl%20Premio%20de%20Todo%20Cristiano%20-%20Filipenses%203-7-14%20-%20Pastor%20Luis%20Ramos%20-%20Culto%20de%20Estudio%20y%20Oraci%C3%B3n.mp4?alt=media&token=3e254ead-eafc-4ed1-8cdc-fbc439b5f29e",
+        "id": 5,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
+        "movieName": "El Premio de Todo Cristiano",
+          "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor Luis Ramos"
 
 
        }
-    
+
     ]
 
   },
@@ -46,19 +69,19 @@
   {
 	
     "categoryId": "2",
-	"categoryTitle":"Esta Semana",
+	"categoryTitle":"Doctrina de Salvacion",
 	"categoryItemList": [
 
        {
 
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2F%C2%BFC%C3%B3mo%20Ser%20Salvo-%20-%20Tito%203-1-7%20-%20Pastor%20Luis%20Ramos%20-%20Culto%20Dominical%20Matutino.mp4?alt=media&token=57791efb-b668-496a-9b05-83303369a5b6",
+          "id": 1,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
+          "movieName": "¿Cómo Ser Salvo?",
+          "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor Luis Ramos"
 
-  		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 1,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "loloolol"
-        },
 
+       },
        
 
        {
