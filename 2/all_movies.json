@@ -86,111 +86,22 @@
 
        {
 
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FSalvaci%C3%B3n%20Perpetua%20-%20Dr.%20Ezequiel%20Salazar.mp4?alt=media&token=2b9c335f-5a2e-479d-a0d0-af8abe6a006c",
  	 	  "id": 2,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
+ 	 	  "movieName": "Salvacion Perpetua",
+          "descriPcion": "Pastor Ezequiel Salazar. (Predicacion inicial al minuto 21:45)"
 
 
        },
 
        {
 
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FLA%20SALVACI%C3%93N%20ES%20POR%20GRACIA%20_%20PASTOR%20HECTOR%20AVILA%20LARA.mp4?alt=media&token=3e0ab32a-c58a-4b15-b010-97c22c0a8957",
  	 	  "id": 3,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       }
-    
-    ]
-
-  },
-
-
-{
-	
-	"categoryId": "3",
-	"categoryTitle":"Esta Semana",
-	"categoryItemList": [
-
-        {
-
-  		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 1,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "loloolol"
-        },
-
-        {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 2,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       },
-
-       
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 3,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       }
-    
-    ]
-
-  },
-
-
-  {
-	
-	"categoryId": "4",
-	"categoryTitle":"Esta Semana",
-	"categoryItemList": [
-         
-         {
-
-
-  		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 1,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "loloolol"
-        },
-
-       
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 2,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       },
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 3,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
+ 	 	  "movieName": "Salvacion por gracia",
+          "descriPcion": "Iglesia Bautista Monte Sinai, Pastor Hector Avila Lara"
 
 
        }
@@ -198,5 +109,4 @@
     ]
 
   }
-
 ]
