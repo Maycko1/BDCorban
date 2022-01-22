@@ -4,24 +4,24 @@
 {
 	
 	"categoryId": "1",
-	"categoryTitle":"Esta Semana",
+	"categoryTitle":"Iglesia Bíblica Bautista SLP",
 	"categoryItemList": [
 {
 
-  		  "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
+  		  "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2FEspecial%20San%20Luis%20Potosi%20%201.mp4?alt=media&token=5d4863ec-06f3-4a6f-8310-567d5181dcdd",
  	 	  "id": 1,
-          "imageUrl":"https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2y2oeVWIlSa51xeCoWDv7m/7cd2bdb4185d1151074401ef960d4276/ac_home-gameinfo-3-bg-mobile_ncsa.jpg",
- 	 	  "movieName":"EJEMPLO Temas 02",
-          "descriPcion":"loloolol"
+          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
+ 	 	  "movieName":"Especial",
+          "descriPcion":"Iglesia Bíblica Bautista De San Luis Potosí A. R."
         },
 
         {
 
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2FEspecial%20San%20Luis%20Potosi%20%203.mp4?alt=media&token=17373ab6-647b-4122-87cd-fc0fafad786f",
  	 	  "id": 2,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
+ 	 	  "movieName":"Especial",
+          "descriPcion":"Iglesia Bíblica Bautista De San Luis Potosí A. R."
 
 
        },
@@ -29,15 +29,34 @@
        
        {
 
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fnacio%20como%20un%20bebe%20peque%3Bo%20slp4.mp4?alt=media&token=b95b6aa8-9843-4c57-8cfa-8b12360f3a93",
  	 	  "id": 3,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
+ 	 	  "movieName":"Especial",
+          "descriPcion":"Iglesia Bíblica Bautista De San Luis Potosí A. R."
+
+
+       },
+
+       {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fslp%205.mp4?alt=media&token=4cec94f8-0669-49df-971d-0f4051095b1d",
+        "id": 4,
+          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
+        "movieName":"Especial",
+          "descriPcion":"Iglesia Bíblica Bautista De San Luis Potosí A. R."
+        },
+
+        {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fslp%206.mp4?alt=media&token=1984746c-6ebd-4713-888f-f9ff870c73cd",
+        "id": 5,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
+        "movieName":"Especial",
+          "descriPcion":"Iglesia Bíblica Bautista De San Luis Potosí A. R."
 
 
        }
-    
     ]
 
   },
@@ -52,125 +71,26 @@
        {
 
 
-  		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
+  		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2FRoy%201.mp4?alt=media&token=6737b199-bf3b-4f1a-b1c4-1379c6418d0a",
  	 	  "id": 1,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "loloolol"
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
+ 	 	  "movieName": "Especial",
+          "descriPcion": "Iglesia Bíblica Liberted"
         },
 
        
 
        {
 
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Froy%202.mp4?alt=media&token=64d0d233-8e19-43ce-bbe5-1db645b72257",
  	 	  "id": 2,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       },
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 3,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
+ 	 	  "movieName": "Especial",
+          "descriPcion": "Iglesia Bíblica Liberted"
 
 
        }
     
-    ]
-
-  },
-
-
-{
-	
-	"categoryId": "3",
-	"categoryTitle":"Esta Semana",
-	"categoryItemList": [
-
-        {
-
-  		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 1,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "loloolol"
-        },
-
-        {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 2,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       },
-
-       
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 3,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       }
-    
-    ]
-
-  },
-
-
-  {
-	
-	"categoryId": "4",
-	"categoryTitle":"Esta Semana",
-	"categoryItemList": [
-         
-         {
-
-
-  		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 1,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "loloolol"
-        },
-
-       
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 2,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       },
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/plo%202.mp4?alt=media&token=3f52ec9f-08fb-495b-956f-0629979daf1a",
- 	 	  "id": 3,
-          "imageUrl": "https://definicion.de/wp-content/uploads/2018/11/Lobo.jpg",
- 	 	  "movieName": "EJEMPLO Temas 02",
-          "descriPcion": "hohohoho"
-
-
-       }
     
     ]
 
