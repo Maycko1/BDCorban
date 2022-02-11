@@ -2,8 +2,108 @@
 [
 
 {
+   
+   "categoryId": "1",
+   "categoryTitle":"Miercoles y Jueves",
+   "categoryItemList": [
 
-"categoryId": "1",
+ {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N4%209y10-02%2FCosas%20que%20pueden%20ayudarnos%20a%20pasar%20por%20los%20tiempos%20dificiles.mp4?alt=media&token=cb168ec3-b3f5-4a20-8f1e-b6b19c1fd471",
+        "id": 1,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fdavid_cortes.png?alt=media&token=1b796a02-7e14-4e09-a978-a33d8398a8ad",
+        "movieName": "Cosas que pueden ayudarnos a pasar por los tiempos dificiles",
+        "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña. Predicador: "
+
+            },
+
+        {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N4%209y10-02%2FEstudio%20Biblico%2002_09_22%20Miercoles.mp4?alt=media&token=0ff14238-31ae-458c-86a3-edf478b4b8f0",
+        "id": 2,
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
+        "movieName":"Estudio Biblico 02_09_22 Miercoles.",
+        "descriPcion":"Primera iglesia Biblica Hammond, Indiana. Pastor Andrés Gómez. Predicador Hno Pepe"
+
+
+       },
+
+       
+       {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N4%209y10-02%2FServicio%20Mi%C3%A9rcoles%202_9_2022%20Pastor%20Elmer%20Fern%C3%A1ndez%20Tema-%20La%20Oraci%C3%B3n%20-Parte%201%20La%20Fe-.mp4?alt=media&token=06a50b98-35f2-4820-a41b-6fddf502defd",
+        "id": 3,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
+        "movieName": "La Oración -La Fe",
+        "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
+
+
+       },
+
+       {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N4%209y10-02%2FServicio%20de%20Jueves%20-%202-10-22%20-%207-30%20PM.mp4?alt=media&token=055b4fad-6727-43cb-bb7e-118821ba915a",
+        "id": 4,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_parada.png?alt=media&token=a1a1f0eb-bc06-49c2-acf5-b164a5ef5c73",
+        "movieName": "Servicio de Jueves",
+        "descriPcion": "Iglesia Bautista Bíblica de Long Beach. Predicador: Pastor Luis Parada Predicador: "
+
+
+
+       },
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N4%209y10-02%2FCulto%20de%20Estudio%20y%20Oraci%C3%B3n.mp4?alt=media&token=a67fc016-c1db-48bc-a64d-009ea8dc9d6a",
+          "id": 5,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
+          "movieName": "La bendicion de vivir de la mano de Dios",
+          "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos"
+
+
+       },
+       {
+
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N4%209y10-02%2FServicio%20de%20Predicaci%C3%B3n_2.mp4?alt=media&token=35436e54-b66f-4684-944f-f4252d5e85b7",
+        "id": 6,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
+        "movieName": "Buscando a Dios",
+        "descriPcion": "Iglesia Iglesia Biblica Libertad, Roy carrizalez."
+        },
+
+       
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N4%209y10-02%2FTransmisi%C3%B3n%20en%20vivo%20de%20Iglesia%20Bautista%20Fundamental.mp4?alt=media&token=76a5b1ea-0cbc-42f4-85f9-7c8a13023087",
+          "id": 7,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FWalkerEcheverria.png?alt=media&token=f1f95f9f-fb41-4774-a339-39301c59b86e",
+          "movieName": "Siendo como Jonas",
+          "descriPcion": "Iglesia Bautista Fundamental Pastor Walter Echeverria, Predicador Jose Reyes"
+
+
+       },
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N4%209y10-02%2Fyt5s.com-%C2%BFQue%20Es%20Amor_%20-%20Dr.%20Ezequiel%20Salazar%2C%20Jr.(360p).mp4?alt=media&token=fe16cf3d-7196-4bd3-b584-d3c52e0c2f1d",
+          "id": 8,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
+          "movieName": "¿Que Es Amor?",
+          "descriPcion": "Iglesia Bautista Montecito, Dr. Ezequiel Salazar, Jr."
+
+   
+     }
+   ]
+
+  },
+
+
+
+{
+
+"categoryId": "2",
    "categoryTitle":"Semana Pasada",
    "categoryItemList": [
 
@@ -206,7 +306,7 @@
 
 {
    
-   "categoryId": "2",
+   "categoryId": "3",
    "categoryTitle":"Semana ante-pasada",
    "categoryItemList": [
 
@@ -381,7 +481,7 @@
 
 {
 	
-	"categoryId": "3",
+	"categoryId": "4",
 	"categoryTitle":"Del Mes",
 	"categoryItemList": [
 
@@ -593,7 +693,7 @@
 
   {
 	
-    "categoryId": "4",
+    "categoryId": "5",
 	"categoryTitle":"Mes pasado",
 	"categoryItemList": [
 
@@ -748,174 +848,6 @@
           "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
       "movieName": "El ADN de Dios",
           "descriPcion": " Iglesia Bautista Libertad, Pastor Roy Carrizales"
-
-       }
-   
-    ]
-
-  },
-
-
-{
-	
-	"categoryId": "5",
-	"categoryTitle":"Mes ante-pasado",
-	"categoryItemList": [
-
- {
-
-        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FCulto%20Vespertino%20-%20Pastor%20Uriel%20Castro.mp4?alt=media&token=b0403b71-d89a-41bb-88a6-d690b88c7bed",
-      "id": 1,
-          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
-      "movieName":"Los que aman a Dios",
-          "descriPcion":"Iglesia Bíblica Bautista De San Luis Potosí A. R., Culto Vespertino, Predicador Pastor Uriel Castro"
-
-            },
-
-        {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FServicio%20de%20Predicaci%C3%B3n.mp4?alt=media&token=a4a244f0-1137-4c06-a27f-6f341d425346",
-      "id": 2,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
-      "movieName": "Que escucha Dios de Nosotros",
-          "descriPcion": "Iglesia Bautista libertad, Pastor Roy Carrizales, Predicador Pastor Carlos Ramos de Venezuela. "
-
-
-       },
-
-       
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FServicio%20del%20Domingo%20PM%2001_09_22.mp4?alt=media&token=b7518af3-bfee-4d3d-b611-932171d22de9",
-      "id": 3,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
-      "movieName": "El poder de la lengua",
-          "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor Andrés Gómez, Servicio del Domingo PM 01/09/22"
-
-
-       },
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FServicio%20domingo%2009%20Enero%202022.mp4?alt=media&token=19a3820e-3b13-4f6a-8f59-37f86b8bc89d",
-      "id": 4,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
-      "movieName": "El poder de la lengua",
-          "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor Andrés Gómez, Servicio del Domingo PM 01/09/22"
-
-
-
-       },
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FServicio%20domingo%2009%20Enero%202022.mp4?alt=media&token=19a3820e-3b13-4f6a-8f59-37f86b8bc89d",
-          "id": 5,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
-          "movieName": "El que no neciere de Dios no puede ver el reyno de Dios",
-          "descriPcion": "Iglesia Bautista Monte Sinai Oficial, Pastor Hector Avila Lara."
-
-
-       },
-       {
-
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Este%20Mes%2FComo%20Ser%20Fiel%20a%20Dios%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=5590b1e7-fbf1-4d48-b6c3-8a954c76453a",
-      "id": 6,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
-      "movieName": "Como Ser Fiel a Dios",
-          "descriPcion": "Iglesia Bautista de Santa Ana, Pastor Ringo Ayala"
-        },
-
-       
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Este%20Mes%2FCulto%20Dominical%20De%20Medio%20D%C3%ADa%20-%20Pastor%20Jorge%20Rocha.mp4?alt=media&token=f918fb2c-8007-41e3-a70e-5d5d279271e6",
-      "id": 7,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
-          "movieName": "Yo y mi casa seguiremos a Jehova",
-          "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos, Predicador: Pastor Jorge Rocha"
-
-
-       },
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Este%20Mes%2FCulto%20Vespertino%20-%20Pastor%20Jorge%20Rocha.mp4?alt=media&token=2c1db0d9-da78-41b8-bf7b-cd96bd44ad0b",
-      "id": 8,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
-      "movieName": "Como aprovechamos la libertad?",
-          "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos, Predicador: Pastor Jorge Rocha"
-
-
-       },
-
-       {
-
-        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Este%20Mes%2FEn%20el%20dia%20que%20temo%2C%20yo%20en%20ti%20confio%2001_02_22%20%20Domingo%20AM-Andres%20Gomez.mp4?alt=media&token=b0364d1f-30bb-4f2e-830c-63207e6b7ad8",
-      "id": 9,
-          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
-      "movieName":"En el dia que temo, yo en ti confio",
-          "descriPcion":"Primera iglesia Biblica Hammond, Indiana. Pastor Andrés Gómez."
-
-            },
-
-        {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Este%20Mes%2FReordenando%20mi%20vida%20espiritual%20-%20Hebreos%204-14%3B%206-1%3B%2010-23%20-%20Pastor%20David%20Cort%C3%A9s%20Pe%C3%B1a.mp4?alt=media&token=cac2942c-bc45-4930-8ab1-cc831db43fb6",
-      "id": 10,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fdavid_cortes.png?alt=media&token=1b796a02-7e14-4e09-a978-a33d8398a8ad",
-      "movieName": "Reordenando mi vida espiritual",
-          "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña. "
-
-
-       },
-
-       
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Este%20Mes%2FServicio%20Dominical%20del%2002%20de%20enero%20del%202022.mp4?alt=media&token=15b7171b-f462-4651-9992-00a94d0079cd",
-          "id": 11,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjose%20aguero.png?alt=media&token=58899a56-054a-4b83-a08d-61baeae77f29",
-          "movieName": "Fieles",
-          "descriPcion": "Iglesia Bautista Fundamental,Santo Domingo, Rep. Dom. Pastor Jose Aguero"
-
-
-       },
-
-       {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Este%20Mes%2FServicio%20de%20Predicaci%C3%B3n-Roy%20Carrizalez.mp4?alt=media&token=56d8ffb8-178a-4daf-ac5c-d5b23a1ebf04",
-         "id": 12,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
-         "movieName": "Que es lo que dice el Señor",
-         "descriPcion": "Iglesia Iglesia Biblica Libertad, Roy carrizalez."
-
-
-
-       },
-
-        {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Este%20Mes%2FServicio%20domingo%2002%20Enero%202022.mp4?alt=media&token=cef7feef-aa8a-4f67-8c9c-d995652f5900",
-         "id": 13,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
-         "movieName": "La promesa de Dios",
-         "descriPcion": "Iglesia Bautista Monte Sinai Oficial, Pastor Hector Avila Lara"
-
-
-
-       },
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Este%20Mes%2FUna%20Vida%20Enfocada%20En%202022%20-%20Hno.%20Kevin%20Taylor%201%20y%202.mp4?alt=media&token=8a9b8ef2-77c6-4bb1-9569-b38235216455",
-          "id": 14,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_taylor.png?alt=media&token=120a86b4-b0a2-40d7-9cdd-903ca2735a61",
-          "movieName": "Una Vida Enfocada En 2022",
-          "descriPcion": "Iglesia Cristiana Bautista, Hno. Kevin Taylor."
-
 
        }
                     
