@@ -3,31 +3,31 @@
     {
 
   		"bannerCategoryId": "1",
-  		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FServicio%20del%20Domingo%20PM%2001_09_22.mp4?alt=media&token=b7518af3-bfee-4d3d-b611-932171d22de9",
+  		"fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fmier.png?alt=media&token=8cc27867-242d-4b0b-bdfa-8fcd6a07b603",
  	 	  "id": 1,
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
- 	 	  "movieName": "El poder de la lengua",
-      "descriPcion": "Pastor Andrés Gómez, Primera Iglesia Bautista Hammond Indiana"
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fmier.png?alt=media&token=8cc27867-242d-4b0b-bdfa-8fcd6a07b603",
+          "movieName": "Culto Dominical Matutino, Una Familia Ejemplar",
+          "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos"
  		},
 
  	{
 
   		"bannerCategoryId": "1",
-      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FServicio%20de%20Predicaci%C3%B3n.mp4?alt=media&token=a4a244f0-1137-4c06-a27f-6f341d425346", 
-      "id": 2,
-      "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
-      "movieName": "Que escucha Dios de ti y de mi",
-      "descriPcion": "Predicador Pastor Carlos Ramos de Venezuela, Iglesia Biblica libertad, Pastor Roy Carrizales"
+     "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N5-20-02Dom%2FServicio%20Domingo%2002_20_22%20AM%20Pastor%20Elmer%20Fern%C3%A1ndez%20Tema_%C2%BFQuie%C3%B1%20Conquista%20Tu%20Mente_.mp4?alt=media&token=50dade63-e82f-4975-b5e8-afa6c5d00f85",
+        "id": 2,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
+        "movieName": "¿Quien Conquista Tu Mente",
+        "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
     },
 
   {
 
       "bannerCategoryId": "1",
-      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Dom%2009%2FCulto%20Vespertino%20-%20Pastor%20Uriel%20Castro.mp4?alt=media&token=b0403b71-d89a-41bb-88a6-d690b88c7bed",
-      "id": 3,
-      "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
-      "movieName": "Los que aman a Dios",
-      "descriPcion": "Predicador: Pastor Uriel Castro, Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor Luis Ramos"
+      "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N5-20-02Dom%2FServicio%20del%20Domingo%20PM%2002_20_22.mp4?alt=media&token=d6ecf785-4d97-45d6-9c03-d44a8fd434fa",
+        "id": 3,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
+        "movieName": "El problema es el oyente (pm)",
+        "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
   },
 
     {
