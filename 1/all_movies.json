@@ -2,10 +2,6 @@
 [
 
 
-     ]
-
-  
-
 {
    
    "categoryId": "1",
@@ -188,17 +184,15 @@
         "movieName":"El Evangelio Del Señor Jesucristo",
         "descriPcion":"Iglesia Bautista de Anaheim, Pastor Jorge Ayala"
        
-       }
-   ]
+    }
+
+    ]
 
   },
 
+   {
 
-
-
-
- {
-   
+ 
    "categoryId": "2",
    "categoryTitle":"Miercoles 02-03",
    "categoryItemList": [
