@@ -5,13 +5,80 @@
 
  
    "categoryId": "1",
-   "categoryTitle":"Miercoles 09-03",
+   "categoryTitle":"Miercoles y Jueves 09,10-03",
    "categoryItemList": [
+
+
+      {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2Fjueves%2FEl%20misterio%20de%20la%20iniquidad%20-%20II%20Tes%202-6-12%20-%20Pastor%20David%20Cort%C3%A9s%20Pe%C3%B1a.mp4?alt=media&token=8d43d063-37cf-4e70-a804-559f7efa72c2",
+        "id": 1,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fdavid_cortes.png?alt=media&token=1b796a02-7e14-4e09-a978-a33d8398a8ad",
+        "movieName": "El misterio de la iniquidad",
+        "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña"
+
+            },
+
+        {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2Fjueves%2FJueves%2010%20Marzo%20de%202022%2019-30%20hrs.Dr.Kevin%20T.Wynne.mp4?alt=media&token=b5cdf7bd-2a9b-494e-a8d7-59a383fb7cf7",
+         "id": 2,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
+         "movieName": "Predicación del Jueves",
+         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
+
+
+       },
+
+       
+       {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2Fjueves%2FServicio%20en%20Vivo%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=459e7bdf-4099-48fc-8c43-a65481c27df1",
+        "id": 3,
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FJorge%20Ayala.png?alt=media&token=1a362381-66df-45e0-9667-045478cf19f1",
+        "movieName":"Principios basicos para el creyente",
+        "descriPcion":"Iglesia Bautista de Anaheim, Pastor Jorge Ayala"
+
+
+
+       },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2Fjueves%2FTransmisi%C3%B3n%20en%20vivo%20de%20Iglesia%20Bautista%20Fundamental.mp4?alt=media&token=2eaaa7f6-8eaf-49ee-bd86-a7298508fef0",
+         "id": 4,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FWalkerEcheverria.png?alt=media&token=f1f95f9f-fb41-4774-a339-39301c59b86e",
+         "movieName": "La Confesion en la oracion",
+         "descriPcion": "Iglesia Bautista Fundamental Pastor Walter Echeverria"
+
+
+
+       },
+
+       {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2Fjueves%2F_La%20Fe%20De%20Dar%20A%20Dios_%201%20Reyes%2017-8-16%20-%20Bill%20Patterson.mp4?alt=media&token=754c0a2c-ca54-4256-9fa1-8101a98d4728",
+        "id": 5,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
+        "movieName": "La Fe de dar a Dios",
+        "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos, Bill Patterson"
+
+    },
+
+ {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2Fjueves%2F%C2%BFAmor%20A%20Dios_%20Amor%20A%20La%20Familia%20-%20Dr.%20Ezequiel%20Salazar%2C%20Jr.mp4?alt=media&token=0ca4eb08-f6e1-40f8-b0d4-c1124e783030",
+         "id": 6,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
+        "movieName": "Amor a Dios, amor a la Familia",
+        "descriPcion": "Iglesia Bautista Montecito, Dr. Ezequiel Salazar, Jr."
+
+     },
 
       {
 
         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2FCu%C3%A1n%20Grande%20Es%20Dios%20-%20Luis%20Parada.mp4?alt=media&token=e459300a-1705-4823-8f71-c4cb3fb43d56",
-        "id": 1,
+        "id": 7,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_parada.png?alt=media&token=a1a1f0eb-bc06-49c2-acf5-b164a5ef5c73",
          "movieName": "Cuán Grande Es Dios",
          "descriPcion": "Iglesia Bautista Bíblica de Long Beach. Predicador: Pastor Luis Parada"
@@ -21,7 +88,7 @@
         {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2FIglesia%20Bautista%20Fundamental%20Monte%20Sion%20-%20Facebook.mp4?alt=media&token=3c133056-863d-4cf5-99a3-7b64690d0d66",
-         "id": 2,
+         "id": 8,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
          "movieName": "Predicación del Miercoles",
          "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
@@ -33,7 +100,7 @@
        {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2FNo%20te%20Apoyes%20en%20tu%20Propia%20Prudencia%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=06d0f7e7-9502-420f-afa0-df569267a7ad",
-        "id": 3,
+        "id": 9,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
         "movieName": "No te Apoyes en tu Propia Prudencia ",
         "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
@@ -45,7 +112,7 @@
        {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2FO.%20y%20E.B.%209%20de%20Marzo%20del%202022.mp4?alt=media&token=99540edf-8ccc-45cf-9e26-dce7f530c7e3",
-         "id": 4,
+         "id": 10,
          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjose%20aguero.png?alt=media&token=58899a56-054a-4b83-a08d-61baeae77f29",
          "movieName":"Culto del miercoles",
          "descriPcion":" Iglesia Bautista Fundamental, Republica Dominicana, Pastor Jose Aguero"
@@ -57,7 +124,7 @@
        {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2FPastor%20H%C3%A9ctor%20%C3%81vila%20_%20UN%20BUEN%20SOLDADO%20DE%20JESUCRISTO.mp4?alt=media&token=0f91938d-57eb-48e7-b407-f28ce94db88f",
-        "id": 5,
+        "id": 11,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
         "movieName": "Un buen soldado de Jesucristo",
         "descriPcion": "Iglesia Bautista Monte Sinai Oficial, Pastor Hector Avila Lara"
@@ -67,7 +134,7 @@
  {
 
          "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2FEl%20Prop%C3%B3sito%20de%20la%20Vida%20-%20Luis%20Parada.mp4?alt=media&token=19c0d2c9-e550-473c-aced-faf6be86522d",
-         "id": 6,
+         "id": 12,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_parada.png?alt=media&token=a1a1f0eb-bc06-49c2-acf5-b164a5ef5c73",
          "movieName": "El Propósito de la Vida",
          "descriPcion": "Iglesia Bautista Bíblica de Long Beach. Predicador: Pastor Luis Parada"
@@ -78,7 +145,7 @@
         {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2FServicio%20Mi%C3%A9rcoles%203_9_2022%20%20Tema-%20Teniendo%20el%20favor%20de%20Dios.mp4?alt=media&token=42c9f861-4924-4022-bd08-bb24d94d9790",
-        "id": 7,
+        "id": 13,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
         "movieName": "Teniendo el favor de Dios",
         "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
@@ -91,7 +158,7 @@
        {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N7-09y10%2FServicio%20de%20Mi%C3%A9rcoles-%209%20de%20marzo%2C%202022.mp4?alt=media&token=05efeb7d-9be4-4f3d-abb6-5e116de899e3",
-        "id": 8,
+        "id": 14,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
         "movieName": "Predicación del Miercoles",
         "descriPcion": "Iglesia Iglesia Biblica Libertad, Roy carrizalez"
