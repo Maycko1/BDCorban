@@ -5,7 +5,7 @@
 
  
    "categoryId": "1",
-   "categoryTitle":"Entre-Semana",
+   "categoryTitle":"Domingo, Predicas pendientes",
    "categoryItemList": [
 
 
@@ -188,7 +188,7 @@
    {
 
  
-   "categoryId": "1",
+   "categoryId": "2",
    "categoryTitle":"Entre-Semana",
    "categoryItemList": [
 
@@ -368,7 +368,7 @@
    {
 
  
-   "categoryId": "2",
+   "categoryId": "3",
    "categoryTitle":"Semana Pasada",
    "categoryItemList": [
 
@@ -805,7 +805,7 @@
 {
 
  
-   "categoryId": "3",
+   "categoryId": "4",
    "categoryTitle":"Semana Pasada 2",
    "categoryItemList": [
 
@@ -1157,7 +1157,7 @@
 
 {
    
-   "categoryId": "4",
+   "categoryId": "5",
    "categoryTitle":"Semana Pasada 3",
    "categoryItemList": [
 
@@ -1479,7 +1479,7 @@
 
    {
    
-   "categoryId": "5",
+   "categoryId": "6",
    "categoryTitle":"Semana Pasada 4",
    "categoryItemList": [
 
@@ -1666,7 +1666,7 @@
 
    {
 
-   "categoryId": "6",
+   "categoryId": "7",
    "categoryTitle":"Mes Pasado",
    "categoryItemList": [
 
