@@ -3,10 +3,73 @@
    {
 
    "categoryId": "1",
-   "categoryTitle":"Entre-Semana",
+   "categoryTitle":"Miercoles y Jueves",
    "categoryItemList": [
 
 
+
+      {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N10-30-31%2FIglesia%20Bautista%20Fundamental%20Betesda%2C%20A.%20R.%20-%20Facebook.mp4?alt=media&token=a2804373-0c3f-4079-a5a6-78196722d7d3",
+          "id": 10,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FJuan%20de%20Dios.png?alt=media&token=6983708e-ba98-4dce-b155-62407a9187d8",
+          "movieName": "El reyno fue lastimado",
+          "descriPcion": "Iglesia Bautista Betesda, Pastor Juan de Dios"
+
+
+       },
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N10-30-31%2FJueves%20%2031%20de%20Marzo%20de%202022%2019_30%20hrs.Dr.Kevin%20T.Wynne.mp4?alt=media&token=85655e0a-c9c2-4ffa-afb3-256167a05d61",
+         "id": 11,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fantonio%20gomez.png?alt=media&token=677f9846-8c27-43e9-98ef-96f63e6ac8d1",
+         "movieName": "Cuando los caminos del Hombre agradan a Dios",
+         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne, Predicador Antonio Gomez"
+
+
+       },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N10-30-31%2FLo%20Que%20Dios%20Quiere%20-%20Hno.%20Juan%20Velez.mp4?alt=media&token=d523fb30-75b3-4304-8d10-5e347a8b4f9d",
+         "id": 12,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
+         "movieName": "Lo Que Dios Quiere",
+         "descriPcion": "Iglesia Bautista Montecito, Dr. Ezequiel Salazar, Jr. Predicador: Juan Velez "
+
+
+       },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N10-30-31%2FServicio%20_%20Mi%C3%A9rcoles%2030%20de%20Marzo%2C%202022.mp4?alt=media&token=28718ce5-e066-4009-acc2-7ddedaaae32d",
+         "id": 13,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fgil%20torres.png?alt=media&token=33e3fe39-497c-4c0e-b845-881ccf1e4aa5",
+         "movieName":"El animo del Cristiano y sus lagrimas",
+         "descriPcion":"Iglesia Bautista El Faro, Pastor Gil Torres, Enseñanza"
+
+       },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N10-30-31%2FServicio%20de%20Jueves%20-%203-31-22%20-%207-30%20PM.mp4?alt=media&token=5844a5de-ff46-4955-9d71-df3aedededfd",
+         "id": 14,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_parada.png?alt=media&token=a1a1f0eb-bc06-49c2-acf5-b164a5ef5c73",
+         "movieName": "Confia en la salvación de Dios",
+         "descriPcion": "Iglesia Bautista Bíblica de Long Beach. Predicador: Pastor Luis Parada"
+
+       },
+
+       {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N10-30-31%2F%C2%BF%C3%89l%20es%20Digno-.mp4?alt=media&token=3d80b034-4a71-4ca0-8aac-ff53ced0a27a",
+        "id": 15,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FPastor%20Alfredo%20Cervantes.png?alt=media&token=a1b4104a-46a3-442a-84d5-4e1777b82ca6",
+        "movieName": "¿Él es Digno?",
+        "descriPcion": "Iglesia Bautista Fe de Canoga Park, Pastor Alfredo Cervantes, Predicador:"
+
+       },
+ 
 
        {
 
@@ -96,7 +159,6 @@
           "movieName": "Llega a la Meta",
           "descriPcion": "Iglesia Bautista Fundamental Pastor Walter Echeverria, Predicador:"
         }
- 
      ]
   
   },
