@@ -4,26 +4,26 @@
 {
 	
 	"categoryId": "1",
-	"categoryTitle":"Iglesia Bíblica Bautista SLP",
+	"categoryTitle":"Existencia de Dios",
 	"categoryItemList": [
 
 
        {
 
-  		  "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FCUARTO%20DE%20GUERRA%20%20%20PELICULA%20CRISTIANA%20COMPLETA%20EN%20ESPA%E1%B9%84OL%20LATINO...pel%C3%ADcula%20sobre%20padres%20j%C3%B3venes.mp4?alt=media&token=e1294397-0efc-4e09-957e-9f1786690659",
+  		  "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FDios%20No%20est%C3%A1%20Muerto%201%20%E2%80%A0%20%5BFull%20HD%5D%20%F0%9F%8E%A5.mp4?alt=media&token=358f85f9-9a9f-4cb6-b88d-0d8f1df79e92",
  	 	  "id": 1,
-          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
- 	 	  "movieName":"Especial",
-          "descriPcion":"Iglesia Bíblica Bautista De San Luis Potosí A. R."
+          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FDios%20no%20esta%20muerto%201.jpg?alt=media&token=ccbfb5c1-0bdf-4582-bb93-751fc6976eb2",
+ 	 	  "movieName":"Dios NO esta muerto",
+          "descriPcion":"Pelicula Cristiana, Joven Lucha por sus creencias"
         },
 
         {
 
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2FEspecial%20San%20Luis%20Potosi%20%203.mp4?alt=media&token=17373ab6-647b-4122-87cd-fc0fafad786f",
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FDios%20No%20Ha%20Muerto%202%20%E2%9A%96%20%5BFull%20HD%5D%20%F0%9F%8E%A5.mp4?alt=media&token=dc0c6005-e6b5-4b80-990e-c1000d16a665",
  	 	  "id": 2,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
- 	 	  "movieName":"Especial",
-          "descriPcion":"Iglesia Bíblica Bautista De San Luis Potosí A. R."
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FDios%20no%20esta_2.jpg?alt=media&token=8ba9fd67-2246-415f-b80f-3190204363ab",
+ 	 	  "movieName":"Dios NO esta muerto II",
+          "descriPcion":"Pelicula Cristiana, Profesora se enfrenta a juicio por hablar de Dios"
 
 
        },
@@ -31,34 +31,23 @@
        
        {
 
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fnacio%20como%20un%20bebe%20peque%3Bo%20slp4.mp4?alt=media&token=b95b6aa8-9843-4c57-8cfa-8b12360f3a93",
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FDios%20No%20est%C3%A1%20Muerto%203%20%F0%9F%8E%93%20%5BFull%20HD%5D%20%F0%9F%8E%A5.mp4?alt=media&token=120b59f0-7258-4d6b-9b0e-033a9c3c127a",
  	 	  "id": 3,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
- 	 	  "movieName":"Especial",
-          "descriPcion":"Iglesia Bíblica Bautista De San Luis Potosí A. R."
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FDios%20no%20esta%20muerto%203.jpg?alt=media&token=867886c4-e3a6-4a61-bd5b-6d42d25456c2",
+ 	 	  "movieName":"Dios NO esta muerto III",
+          "descriPcion":"Pelicula Cristiana"
 
 
        },
 
        {
 
-        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fslp%205.mp4?alt=media&token=4cec94f8-0669-49df-971d-0f4051095b1d",
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FVer%20El%20caso%20de%20cristo%20(The%20Case%20for%20Christ)%20Online%20y%20Descargar%20Gratis%20Hd%20-%20PelisPlanet.mp4?alt=media&token=bc3a384b-b02e-4ed7-b613-6215841d2236",
         "id": 4,
-          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
-        "movieName":"Especial",
-          "descriPcion":"Iglesia Bíblica Bautista De San Luis Potosí A. R."
-        },
-
-        {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fslp%206.mp4?alt=media&token=1984746c-6ebd-4713-888f-f9ff870c73cd",
-        "id": 5,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
-        "movieName":"Especial",
-          "descriPcion":"Iglesia Bíblica Bautista De San Luis Potosí A. R."
-
-
-       }
+          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FEl%20caso%20de%20Cristo.jpg?alt=media&token=e1595ba8-f5cf-4f3e-9b40-9a4f542d88fc",
+        "movieName":"El caso de Cristo",
+          "descriPcion":"Pelicula Cristiana, Un Ateo Intenta demostrarle a su esposa que Jesus no resucito "
+        }
     ]
 
   },
@@ -67,28 +56,77 @@
   {
 	
     "categoryId": "2",
-	"categoryTitle":"Iglesia Bíblica Liberted",
+	"categoryTitle":"La Familia",
 	"categoryItemList": [
 
        {
 
 
-  		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2FRoy%201.mp4?alt=media&token=6737b199-bf3b-4f1a-b1c4-1379c6418d0a",
+  		  "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FPELICULA%20RETO%20DE%20VALIENTES.mp4?alt=media&token=fd104ff4-30a8-4eff-a176-758dc1ebb166",
  	 	  "id": 1,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
- 	 	  "movieName": "Especial",
-          "descriPcion": "Iglesia Bíblica Liberted"
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FReto%20de%20valientes.jpg?alt=media&token=45f38ffe-ac3d-4245-a32c-4d562b1a34b0",
+ 	 	  "movieName": "Reto de Valientes",
+          "descriPcion": "Como agentes de la ley, están preparados y saben lo que hacen. Sin embargo, enfrentan un desafío que ninguno de ellos está preparado"
         },
 
        
 
        {
 
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Froy%202.mp4?alt=media&token=64d0d233-8e19-43ce-bbe5-1db645b72257",
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FCUARTO%20DE%20GUERRA%20%20%20PELICULA%20CRISTIANA%20COMPLETA%20EN%20ESPA%E1%B9%84OL%20LATINO...pel%C3%ADcula%20sobre%20padres%20j%C3%B3venes.mp4?alt=media&token=e1294397-0efc-4e09-957e-9f1786690659",
  	 	  "id": 2,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/musica%2Fplayer.png?alt=media&token=4ed3f510-898f-4d8a-a45d-6f6571df828e",
- 	 	  "movieName": "Especial",
-          "descriPcion": "Iglesia Bíblica Liberted"
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2Fcuarto%20de%20guerra.jpg?alt=media&token=8d12771d-e068-48df-ab85-7a69ad9e1474",
+ 	 	  "movieName": "Cuarto de Guerra",
+          "descriPcion": "El mundo de Tony y Elizabeth Jordan se derrumba por la presión de un matrimonio en crisis."
+
+
+       },
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FPrueba%20de%20fuego%20-%20Fireproof%20(2008)%201080p%20castellano.mp4?alt=media&token=8bb8636a-571e-4a16-93ef-0e6c1e8c38b2",
+          "id": 3,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2Fprueba-de-fuego.jpg?alt=media&token=fa53a5f1-60a0-4a29-b9a7-b772edc26eab",
+          "movieName": "Prueba de fuego",
+          "descriPcion": "El matrimonio de un bombero esforzado está a punto de terminar en el divorcio"
+
+
+       }
+
+       {
+   
+    "categoryId": "3",
+   "categoryTitle":"Mas",
+   "categoryItemList": [
+
+       {
+
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FLa%20pasi%C3%B3n%20De%20Cristo%20Completo%20En%20Espa%C3%B1ol.mp4?alt=media&token=bf3c8f4b-3369-49d4-adeb-e2103528f8b5",
+        "id": 1,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FLa%20pasion%20de%20Cristo.jpg?alt=media&token=ea5fd322-1d1b-433b-a95a-3e4d6d063fe7",
+        "movieName": "La Pasion de Cristo",
+        "descriPcion": "El sacrificio que Jesus hiso por nostros en la cruz"
+        },
+
+       
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FVictorioso%20pel%C3%ADcula%20cristiana%20espa%C3%B1ol%20completa..mp4?alt=media&token=4a929c38-d4d4-4d26-87dd-b1a679531083",
+        "id": 2,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FVictorioso.jpg?alt=media&token=d10a0926-ff8c-42e8-a166-5f4a22005ce0",
+        "movieName": "Home Run",
+          "descriPcion": "centrado en el alcoholismo de un jugador de béisbol"
+
+
+       },
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FYA%20NO%20VIVO%20YO%20-%20PELICULA%20CRISTIANA%20COMPLETA.mp4?alt=media&token=3498b690-54e4-4224-a9fe-f2fd4e2f6241",
+        "id": 3,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Peliculas%2FYA%20NO%20VIVO%20YO.jpg?alt=media&token=eb2ac998-fb05-4f84-8c5d-d4088f2d3e52",
+        "movieName": "Ya no vivo Yo",
+          "descriPcion": "Pelicula cristiana"
 
 
        }
