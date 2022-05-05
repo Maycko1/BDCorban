@@ -1,6 +1,94 @@
 
 [
 
+{
+   "categoryId": "17",
+   "categoryTitle":"Servicio del Miercoles",
+   "categoryItemList": [
+
+       {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FEstudio%20Biblico%20Miercoles%20%2005_04_22.mp4?alt=media&token=fc1accd7-3491-4941-9504-b37e3b9a2aae",
+        "id": 1,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
+         "movieName": "Estudio Biblico Miercoles",
+         "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
+            },
+
+             {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FFacebook.mp4?alt=media&token=9155a1d8-30e3-4c4d-adfc-432d8cea7566",
+        "id": 2,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
+         "movieName": "Servicio del Miercoles",
+         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
+
+         },
+
+        {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FInstrucciones%20en%20el%20Matrimonio%20-%20Hno.%20Kevin%20Taylor.mp4?alt=media&token=1b66a0f7-c350-4f74-9b10-7c9da21db150",
+        "id": 3,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_taylor.png?alt=media&token=120a86b4-b0a2-40d7-9cdd-903ca2735a61",
+        "movieName": "Instrucciones en el Matrimonio",
+        "descriPcion": "Iglesia Bautista Fundamental, Pastor Kevin Taylor."
+
+       },
+
+       
+       {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FMisionero%20Johnny%20Robles.mp4?alt=media&token=26de2c42-5a0c-47df-8658-a54e13361d63",
+        "id": 4,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjorge%20rocha.png?alt=media&token=97141872-b174-4d85-855a-54f94cae2c64",
+        "movieName": "Culto de Estuio y Oración",
+        "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Jorge Rocha, Predicador:"
+
+       },
+
+       {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FPastor%20H%C3%A9ctor%20%C3%81vila%20Lara-%20Los%20Grandes%20H%C3%A9roes%20de%20la%20Fe.mp4?alt=media&token=223f9264-73b6-4b4d-a193-6b2d721dea9f",
+        "id": 5,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
+        "movieName": "Los Grandes Héroes de la Fe",
+        "descriPcion": "Iglesia Bautista Monte Sinai Oficial , Pastor: Hector Avila Lara"
+
+       },
+
+       {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FSalvaci%C3%B3n%20Sencilla%20-%20Hno.%20Kevin%20Taylor.mp4?alt=media&token=8ddf4d76-e1f3-4f6c-ac7d-ea71ce9c2f9e",
+        "id": 6,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_taylor.png?alt=media&token=120a86b4-b0a2-40d7-9cdd-903ca2735a61",
+        "movieName": "Salvación sencilla",
+        "descriPcion": "Iglesia Bautista Fundamental, Pastor Kevin Taylor."
+
+       },
+ 
+       {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FServicio%20de%20Estudio%20y%20Oraci%C3%B3n.mp4?alt=media&token=10ee6703-e41a-42ae-8a74-40531ec6f8f2",
+        "id": 7,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Falejando_ramirez.png?alt=media&token=27e2075d-f1c7-43f0-951f-d94660c6dca7",
+        "movieName": "Servicio de Estudio y Oración",
+        "descriPcion": "Iglesia Bautista Monte Abarim , Pastor Alejandro Ramirez"
+     },
+
+        {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FServicio%20de%20Predicaci%C3%B3n.mp4?alt=media&token=c9915399-4f87-421e-a89b-c355bfd5db2a",
+        "id": 16,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
+         "movieName": "Servicio del Miercoles",
+         "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
+            }
+
+            ]
+  
+      },
+
+
     {
    "categoryId": "16",
    "categoryTitle":"Domingo, aun pendientes",
