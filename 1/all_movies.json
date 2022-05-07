@@ -3,7 +3,7 @@
 
 {
    "categoryId": "17",
-   "categoryTitle":"Servicio del Miercoles",
+   "categoryTitle":"Miercoles y Jueves",
    "categoryItemList": [
 
        {
@@ -82,16 +82,73 @@
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
          "movieName": "Servicio del Miercoles",
          "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
-            }
+            },
 
-            ]
+            {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FDerramare%CC%81%20Aguas%20Sobre%20El%20Sequedal%20-%20Dr.%20Ezequiel%20Salazar%2C%20Jr.mp4?alt=media&token=5f1cdad3-b5d7-46f7-9d94-f2a545a2f230",
+         "id": 8,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
+         "movieName": "Derramaré Aguas Sobre El Sequedal",
+         "descriPcion": "Iglesia Bautista Montecito, Dr. Ezequiel Salazar, Jr."
+            },
+
+             {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FEl%20Amor%20Es%20Paciente.mp4?alt=media&token=907b72e6-072f-4693-8c62-a8688843c82c",
+         "id": 9,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FPastor%20Alfredo%20Cervantes.png?alt=media&token=a1b4104a-46a3-442a-84d5-4e1777b82ca6",
+        "movieName": "El Amor Es Paciente",
+        "descriPcion": "Iglesia Bautista Fe de Canoga Park, Pastor Alfredo Cervantes"
+
+         },
+         {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FFacebook.mp4?alt=media&token=9af22e8f-0d08-4104-8b1c-6e5a4496da00",
+         "id": 11,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
+         "movieName": "Culto del Jueves",
+         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
+
+       },
+
+        {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FO.%20y%20E.B.%204%20de%20Mayo%20del%202022.mp4?alt=media&token=366ea866-6737-436a-9941-95e4153818b1",
+        "id": 10,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjose%20aguero.png?alt=media&token=58899a56-054a-4b83-a08d-61baeae77f29",
+         "movieName": "Servicio del dia Jueves",
+         "descriPcion":" Iglesia Bautista Fundamental, Republica Dominicana, Pastor Jose Aguero"
+       },    
+
+          {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FPastor%20Gil%20Torres%20(%C2%BFQu%C3%A9%20Importante%20Es%20La%20Iglesia%20Para%20Dios_)%20Servicio%20Mi%C3%A9rcoles%205_4_2022.mp4?alt=media&token=88b7ed93-da01-4ff8-9c9a-e2a1ebd4529a",
+        "id": 17,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
+        "movieName": "¿Qué Importante Es La Iglesia Para Dios",
+        "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández, Predicador: Gil Torres"
+
+         },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FTransmisi%C3%B3n%20en%20vivo%20de%20Iglesia%20Bautista%20Fundamental.mp4?alt=media&token=1f74faae-2a6e-4e71-8484-534ce31aec54",
+         "id": 12,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FWalkerEcheverria.png?alt=media&token=f1f95f9f-fb41-4774-a339-39301c59b86e",
+         "movieName": "Servicio del Miercoles",
+         "descriPcion": "Iglesia Bautista Fundamental, Pastor Walter Echeverria"
+
+         }
+
+       ]
   
       },
 
 
     {
    "categoryId": "16",
-   "categoryTitle":"Domingo, aun pendientes",
+   "categoryTitle":"Semana Pasada",
    "categoryItemList": [
 
        {
@@ -363,18 +420,9 @@
           "movieName": "Servicio del Domingo",
           "descriPcion": "Iglesia Bautista El Camino, Pastor Robert Walker"
 
-       }
-      ]
-  
-    },
+       },
 
-   {
-   "categoryId": "15",
-   "categoryTitle":"Miercoles y jueves",
-   "categoryItemList": [
-
-
-      {
+        {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N14-27-04%2FComo%20Ser%20Un%20Cristiano%20Fruct%C3%ADfero%20-%20Dr.%20Ezequiel%20Salazar%2C%20Jr.mp4?alt=media&token=31635331-b9e7-4794-9a83-f177593356cf",
          "id": 10,
@@ -446,7 +494,7 @@
            {
 
         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N14-27-04%2FCulto%20de%20Estuio%20y%20Oraci%C3%B3n_2.mp4?alt=media&token=cf138a5b-7fbb-450a-a9a3-0a5b026f432d",
-        "id": 1,
+        "id": 29,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjorge%20rocha.png?alt=media&token=97141872-b174-4d85-855a-54f94cae2c64",
         "movieName": "Culto de Estuio y Oración",
         "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Jorge Rocha"
@@ -455,7 +503,7 @@
              {
 
         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N14-27-04%2FEstudio%20Biblico%20Miercoles%2004_27_22.mp4?alt=media&token=6a8cbebe-a1f5-4191-a593-8cf7211b59b3",
-        "id": 2,
+        "id": 30,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
          "movieName": "Estudio Biblico Miercoles",
          "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
@@ -465,7 +513,7 @@
         {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N14-27-04%2FG%C3%A9nesis%209-%20El%20Pacto%20Perpetuo%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=8e4e53f2-f744-499e-8c26-3e13dd46e9a2",
-        "id": 3,
+        "id": 31,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
         "movieName": "El Pacto Perpetuo",
         "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
@@ -476,7 +524,7 @@
        {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N14-27-04%2FMi%C3%A9rcoles%2027%20de%20Abril%20de%202022%2019-30%20Pm%20hrs.Dr.Kevin%20T.Wynne%20.mp4?alt=media&token=0eaddf8a-0b5f-4375-9306-9590caaf4a39",
-         "id": 4,
+         "id": 32,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
          "movieName": "Culto del Miercoles",
          "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
@@ -486,7 +534,7 @@
        {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N14-27-04%2FHablando%20con%20Denuedo-%20Pastor%20Carlos%20Ramos%20Servicio%20Mi%C3%A9rcoles%204_27_2022.mp4?alt=media&token=0d601493-8301-498f-84af-b3ee74cf6b03",
-         "id": 5,
+         "id": 33,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
         "movieName": "Hablando con Denuedo",
         "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
@@ -496,7 +544,7 @@
        {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N14-27-04%2FO.%20y%20E.B.%2027%20de%20Abril%20del%202022.mp4?alt=media&token=73ddc276-80a3-4f41-ac32-1bf133f2f6fc",
-         "id": 6,
+         "id": 34,
          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjose%20aguero.png?alt=media&token=58899a56-054a-4b83-a08d-61baeae77f29",
          "movieName": "Servicio Miercoles",
          "descriPcion":" Iglesia Bautista Fundamental, Republica Dominicana, Pastor Jose Aguero"
@@ -506,7 +554,7 @@
        {
 
           "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N14-27-04%2FServicio%20de%20Predicaci%C3%B3n.mp4?alt=media&token=73ece59d-b627-47d9-8f88-f55795bc242a",
-          "id": 7,
+          "id": 35,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
          "movieName": "Servicio del Miercoles",
          "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
@@ -515,7 +563,7 @@
       {
 
         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N14-27-04%2FUn%20verdadero%20hijo%20en%20la%20fe%20-%20I%20Timoteo%201_%201-7%20-%20Pastor%20David%20Cort%C3%A9s%20Pe%C3%B1a.mp4?alt=media&token=be5e0b3d-23f3-4821-805f-5c2be57003b8",
-        "id": 8,
+        "id": 36,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fdavid_cortes.png?alt=media&token=1b796a02-7e14-4e09-a978-a33d8398a8ad",
         "movieName": "Un verdadero hijo en la fe",
         "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña"
@@ -524,20 +572,18 @@
              {
 
          "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N14-27-04%2F%F0%9F%94%B4Servicio%20en%20Vivo%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=a75afefd-405b-4f76-947c-87a3086d314b",
-         "id": 9,
+         "id": 37,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
         "movieName": "Servicio del Domingo",
         "descriPcion": "Iglesia Bautista Monte Sinai Oficial , Pastor: Hector Avila Lara"
          }
       ]
   
-  },
-
-
+    },
 
    {
    "categoryId": "14",
-   "categoryTitle":"Semana Pasada",
+   "categoryTitle":"Semana Pasada 2",
    "categoryItemList": [
 
        {
@@ -974,7 +1020,7 @@
    
    
    "categoryId": "11",
-   "categoryTitle":"Semana Pasada 2",
+   "categoryTitle":"Semana Pasada 3",
    "categoryItemList": [
 
 {
@@ -1365,400 +1411,6 @@
          "descriPcion": "Iglesia Iglesia Bautista,  Pastor J. Moises Herrera"
        }
         
-    ]
-  
-  },
-
-  
-{
-   "categoryId": "1",
-   "categoryTitle":"Semana Pasada 3",
-   "categoryItemList": [
-
-
-{
-
-         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FCorazones%20Llenos%20de%20Temor%20_%20Pastor%20J.%20Mosies%20Herrera.mp4?alt=media&token=e4470d9b-8e85-4e93-877b-deebe3187178",
-         "id": 1,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fj.MoisesHerrera.png?alt=media&token=2810e680-630d-4813-b39b-fc8e80a194da",
-         "movieName": "Corazones Llenos de Temor",
-         "descriPcion": "Iglesia Iglesia Bautista,  Pastor J. Moises Herrera"
-            },
-
-             {
-
-         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FHosanna-%20Exclamaci%C3%B3n%20del%20Salvaci%C3%B3n%20-%20Pastor%20J.%20Moises%20Herrera.mp4?alt=media&token=9e0dfb31-d590-4da0-bf36-515b605cb7eb",
-         "id": 2,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fj.MoisesHerrera.png?alt=media&token=2810e680-630d-4813-b39b-fc8e80a194da",
-         "movieName": "Hosanna, Exclamación del Salvación",
-         "descriPcion": "Iglesia Iglesia Bautista,  Pastor J. Moises Herrera"
-
-         },
-
-        {
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FLa%20Crucifixi%C3%B3n%20de%20Cristo%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=2d8cfde6-643a-4529-8ed0-183ddd85a449",
-        "id": 3,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
-        "movieName": "La Crucifixión de Cristo",
-        "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
-
-
-       },
-
-       
-       {
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FLa%20Iglesia%20y%20su%20Doctrina%20__%201%20Timoteo%201-3-4%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=329a2cf8-b6e4-4504-9192-3f6a660c88d4",
-        "id": 4,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
-        "movieName": "La Iglesia y su Doctrina",
-        "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
-
-       },
-
-       {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FServicio%20-%20Domingo%2010%20de%20Abril%2C%202022.mp4?alt=media&token=d273b7b9-dfa4-42b0-9e9a-5a2c396a81f5",
-         "id": 5,
-         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fgil%20torres.png?alt=media&token=33e3fe39-497c-4c0e-b845-881ccf1e4aa5",
-         "movieName":"La cena del Señor",
-         "descriPcion":"Iglesia Bautista El Faro, Pastor Gil Torres"
-
-
-       },
-
-       {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FTransmisi%C3%B3n%20en%20vivo%20de%20Iglesia%20Bautista%20Fundamental.mp4?alt=media&token=a24b7876-fdd5-48e6-9ecc-871fc8697153",
-          "id": 6,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FWalkerEcheverria.png?alt=media&token=f1f95f9f-fb41-4774-a339-39301c59b86e",
-          "movieName": "El mensaje es Cristo Jesus",
-          "descriPcion": "Iglesia Bautista Fundamental Pastor Walter Echeverria, Predicador Roy Carrizalez"
-       },
- 
-       {
-
-          "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FTransmisi%C3%B3n%20en%20vivo%20de%20Iglesia%20Bautista%20Fundamental_2.mp4?alt=media&token=daf2ca1b-c4fa-46f2-a6d4-5e65854e119a",
-          "id": 7,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FWalkerEcheverria.png?alt=media&token=f1f95f9f-fb41-4774-a339-39301c59b86e",
-          "movieName": "Que es una gran Iglesia",
-          "descriPcion": "Iglesia Bautista Fundamental Pastor Walter Echeverria, Predicador Roy Carrizalez"
- 
-     },
-
-     
-        {
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FVictoria%20en%20Cristo%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=ad6762d4-5aed-472b-af40-f20419686f9f",
-        "id": 8,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
-        "movieName": "Victoria en Cristo",
-        "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
-
-       },
-       {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FVive%20Una%20Vida%20Ordenada%20Por%20Dios%20-%20Pastor%20Eduardo%20Martinez.mp4?alt=media&token=b6ae3de6-b5d1-4673-90ef-4ad3c54ba937",
-         "id": 9,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Farturo_mu%C3%B1oz.png?alt=media&token=76838007-1b8c-4348-89ba-cc031e3e42a2",
-        "movieName": "Vive Una Vida Ordenada Por Dios",
-        "descriPcion": " Iglesia Cristiana Bautista de Puebla, Pastor Arturo Muñoz Nuñez, Predicador: Pastor Eduardo Martinez"
-
-
-       },
-      {
-
-        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2F04_10_22%20Domingo%20PM.mp4?alt=media&token=f942396d-dde1-452b-85d9-7e6ec17126a0",
-        "id": 10,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
-         "movieName": "Domingo PM",
-         "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez, Predicador"
-
-            },
-
-        {
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FCulto%20Dominical%20Matutino%20-%20Pastor%20Luis%20Ramos.mp4?alt=media&token=3c512c3b-c3bf-450f-a697-e93ae92e1b42",
-        "id": 11,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
-        "movieName": "Culto Dominical AM",
-        "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos"
-
-
-       },
-
-       
-       {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FCulto%20Dominical%20de%20Mediod%C3%ADa%20-%20Pastor%20Luis%20Ramos.mp4?alt=media&token=b385c2b7-3f20-4a39-86f6-86b4028c6726",
-         "id": 12,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
-        "movieName": "Culto Dominical Medio Día",
-        "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos"
-
-       },
-
-       {
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FCulto%20Vespertino%20-%20Kevin%20Taylor.mp4?alt=media&token=8557b421-93a4-4cbd-a999-914478916709",
-        "id": 13,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
-        "movieName": "Culto Dominical Medio Día",
-        "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos, Predicador: Kevin Taylor"
-
-
-
-       },
-
-       {
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FDios%20est%C3%A1%20enojado%20por%20la%20%20perversi%C3%B3n%20del%20hombre%20-%20Pastor%20David%20Cort%C3%A9s.mp4?alt=media&token=d6510f60-4596-4c50-af30-4b03053565f1",
-        "id": 14,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fdavid_cortes.png?alt=media&token=1b796a02-7e14-4e09-a978-a33d8398a8ad",
-        "movieName": "Dios está enojado por la  perversión del hombre",
-        "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña"
-    },
-
-   {
-
-         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FDomingo%2010%20de%20Abril%20de%202022%2011_45%20Hrs.Dr.Kevin%20T.Wynne.mp4?alt=media&token=0de0d327-786f-4873-aca6-9aa074405ffb",
-         "id": 15,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
-         "movieName": "Servicio de Domingo medio dia",
-         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
-     },
-
-      {
-
-         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FEl%20Corazon%20De%20Los%20Padres%20Hacia%20Los%20Hijos%20-%20Dr.%20Ezequiel%20Salazar%2C%20Jr.mp4?alt=media&token=3aedffc7-131b-4b8c-b57a-78f84feafcdb",
-         "id": 16,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
-         "movieName": "El Corazon De Los Padres Hacia Los Hijos",
-         "descriPcion": "Iglesia Bautista Montecito, Dr. Ezequiel Salazar, Jr."
-            },
-
-        {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FEl%20Coraz%C3%B3n%20De%20Los%20Padres%20Hacia%20Los%20Hijos%20Parte%20II%20-%20Dr.%20Ezequiel%20Salazar%2C%20Jr.mp4?alt=media&token=5161a827-34bf-4f72-a14a-899ad16b2734",
-         "id": 17,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
-         "movieName": "El Corazón De Los Padres Hacia Los Hijos Parte II",
-         "descriPcion": "Iglesia Bautista Montecito, Dr. Ezequiel Salazar, Jr."
-
-       },
-
-       
-       {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FEl%20momento%20m%C3%A1s%20peligroso%20del%20cristiano%2004_10_22%20Domingo%20AM.mp4?alt=media&token=92cebb80-1456-4e27-bdef-e3af4228f4f3",
-         "id": 18,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
-         "movieName": "El momento más peligroso del cristiano",
-         "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez, Predicador"
-
-       },
-
-       {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FIglesia%20Bautista%20Fundamental%20Betesda%2C%20A.%20R.%20-%20Facebook_2.mp4?alt=media&token=263580cb-4436-4b02-903e-b59680c8240b",
-         "id": 19,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
-         "movieName": "Servicio de Domingo AM",
-         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
-
-
-
-       },
-
-       {
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FServicio%20Domingo%204_10_2022%20Am%20Pastor%20Elmer%20Fern%C3%A1ndez%20Tema_%20Jes%C3%BAs%20Mi%20Mejor%20Amigo.mp4?alt=media&token=04b912c2-4202-44a0-82ef-73e182483059",
-        "id": 20,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
-        "movieName": "esús Mi Mejor Amigo",
-        "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
-
-    },
-
- {
-
-         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FServicio%20Domingo%204_10_2022%20Pm%20Pastor%20Elmer%20Fern%C3%A1ndez%20Tema%20_Eres%20Tu%20Amigo%20de%20Jehov%C3%A1__.mp4?alt=media&token=f00fe494-5ff9-4573-bdcc-37659022527e",
-         "id": 21,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
-         "movieName": "Eres Tu Amigo de Jehová",
-         "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
-
-
-            },
-
-        {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FServicio%20Dominical%20del%2010%20de%20Abril%20del%202022%20_%20Ps.%20Jos%C3%A9%20Ag%C3%BCero.mp4?alt=media&token=45445e11-cd9f-406b-bf69-a01afb66620f",
-         "id": 22,
-         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjose%20aguero.png?alt=media&token=58899a56-054a-4b83-a08d-61baeae77f29",
-         "movieName": "Servicio Dominical",
-         "descriPcion":" Iglesia Bautista Fundamental, Republica Dominicana, Pastor Jose Aguero"
-
-       },
-
-              {
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FServicio%20de%20Domingo%20_%204-10-22%20_%2012_00%20PM.mp4?alt=media&token=2b65dd66-35e3-4b69-9e36-dde6de48854b",
-        "id": 23,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_parada.png?alt=media&token=a1a1f0eb-bc06-49c2-acf5-b164a5ef5c73",
-         "movieName": "Servicio de Doming Medio Día",
-         "descriPcion": "Iglesia Bautista Bíblica de Long Beach. Predicador: Pastor Luis Parada"
-
-       },
-
-       {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FServicio%20de%20Predicaci%C3%B3n.mp4?alt=media&token=8f6bd5e4-c032-40c0-8b2d-da864735d8f9",
-         "id": 24,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
-         "movieName": "Servicio del Domingo",
-         "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
-       },
- {
-
-        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FCuidando%20La%20Presencia%20De%20Dios%20En%20Nuestras%20Vidas%20-%20Pastor%20Luis%20Hernandez.mp4?alt=media&token=4981675f-c847-4c48-bf83-c0ab0c00e106",
-        "id": 25,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Farturo_mu%C3%B1oz.png?alt=media&token=76838007-1b8c-4348-89ba-cc031e3e42a2",
-        "movieName": "Cuidando La Presencia De Dios En Nuestras Vidas ",
-        "descriPcion": " Iglesia Cristiana Bautista de Puebla, Pastor Arturo Muñoz Nuñez, Predicador: Pastor Luis Hernandez"
-
-            },
-
-        {
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FCulto%20de%20Estudio%20y%20Oraci%C3%B3n%20-Lo%20que%20dice%20la%20Biblia%20acerca%20de%20la%20ira%20-%20Pastor%20Luis%20Ramos%20-%20Stg.%201_1%E2%80%A6.mp4?alt=media&token=f7912fc1-7419-43b9-90a4-02b5dd54233b",
-        "id": 26,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
-        "movieName": "-Lo que dice la Biblia acerca de la ira",
-        "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos"
-
-
-       },
-
-       
-       {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FEstudio%20Biblico%2004_06_22%20Miercoles.mp4?alt=media&token=94227585-8004-4b41-8f07-d0cdbbfe08e3",
-         "id": 27,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
-         "movieName": "Estudio Biblico",
-         "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
-
-       },
-
-       {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FFacebook.mp4?alt=media&token=aeb5dcb6-7cf2-4fb9-a587-90188da49fe6",
-         "id": 28,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjonathan_ashcraft.png?alt=media&token=e19b68f9-f348-4f86-ba76-f1455049e00b",
-         "movieName": "No te acostumbres a andar en el decierto",
-         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne, Predicador: Jonathan Ashcraft"
-
-
-
-       },
-
-       {
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FFacebook_2.mp4?alt=media&token=ed24f1e0-f44c-40eb-aed8-ef63c1cba50a",
-        "id": 29,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjonathan_ashcraft.png?alt=media&token=e19b68f9-f348-4f86-ba76-f1455049e00b",
-         "movieName": "Culto del Miercoles",
-         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne, Predicador: Jonathan Ashcraft"
-    },
-
- {
-
-        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FLa%20Naturaleza%20de%20la%20Iglesia%20de%20Dios.mp4?alt=media&token=a98307bd-8eef-453d-9342-3aa4171b4b3c",
-        "id": 30,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FPastor%20Alfredo%20Cervantes.png?alt=media&token=a1b4104a-46a3-442a-84d5-4e1777b82ca6",
-        "movieName": "La Naturaleza de la Iglesia de Dios",
-        "descriPcion": "Iglesia Bautista Fe de Canoga Park, Pastor Alfredo Cervantes"
-     },
-
-      {
-
-         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FLa%20Perla%20Preciosa%20-%20Pastor%20J.%20Moises%20Herrera.mp4?alt=media&token=30ed9a1b-f73d-459e-8ec7-ed5a95844d91",
-         "id": 31,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fj.MoisesHerrera.png?alt=media&token=2810e680-630d-4813-b39b-fc8e80a194da",
-         "movieName": "La Perla Preciosa",
-         "descriPcion": "Iglesia Iglesia Bautista,  Pastor J. Moises Herrera"
-
-            },
-
-        {
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FQu%C3%A9%20Bueno%20es%20Nuestro%20Dios%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=331c68ee-c0c6-4d4d-9e44-b837400eb01c",
-        "id": 32,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
-        "movieName": "Qué Bueno es Nuestro Dios",
-        "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
-
-       },
-
-       
-       {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FServicio%20_%20Mi%C3%A9rcoles%2006%20de%20Abril%2C%202022.mp4?alt=media&token=85f92595-16a8-4e31-90cc-dea76479b62f",
-         "id": 33,
-         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fgil%20torres.png?alt=media&token=33e3fe39-497c-4c0e-b845-881ccf1e4aa5",
-         "movieName":"Enseñanza dia Miercoles",
-         "descriPcion":"Iglesia Bautista El Faro, Pastor Gil Torres"
-
-
-       },
-
-       {
-
-         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FServicio%20de%20Predicaci%C3%B3n.mp4?alt=media&token=8f6bd5e4-c032-40c0-8b2d-da864735d8f9",
-         "id": 34,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
-         "movieName": "Cristo es Rey en nuestra vida?",
-         "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
-
-
-
-       },
-
-       {
-
-        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2Figlesia%20bautista%20fundamental%20betesda%2C%20a.%20r.%20-%20Resultados%20de%20b%C3%BAsqueda%20-%20Facebook.mp4?alt=media&token=ae9e3607-65dc-43e4-8046-fd8bc3c7f30c",
-        "id": 35,
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FJuan%20de%20Dios.png?alt=media&token=6983708e-ba98-4dce-b155-62407a9187d8",
-        "movieName": "¨Predicacion del Jueves",
-        "descriPcion": "Iglesia Bautista Betesda, Pastor Juan de Dios, Predicador"
-
-    },
-
-    {
-
-         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FServicio%20Mi%C3%A9rcoles%204_6_2022%20Pm%20Pastor%20Elmer%20Fern%C3%A1ndez.mp4?alt=media&token=b46f8df8-7840-4f72-b8bf-0415cd42ca31",
-         "id": 36,
-         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
-         "movieName": "Servicio Miércoles",
-         "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
-
-
-            },
-
-        {
-
-          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N11-06%2C07-04%2FTransmisi%C3%B3n%20en%20vivo%20de%20Iglesia%20Bautista%20Fundamental.mp4?alt=media&token=b1a6629b-3677-412f-8f9d-07777b5c6278",
-          "id": 37,
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FWalkerEcheverria.png?alt=media&token=f1f95f9f-fb41-4774-a339-39301c59b86e",
-          "movieName": "Tu enemigo numero uno",
-          "descriPcion": "Iglesia Bautista Fundamental Pastor Walter Echeverria"
-
-
-
-       }
-
     ]
   
   }
