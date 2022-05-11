@@ -3,7 +3,7 @@
 
    {
    "categoryId": "18",
-   "categoryTitle":"Domingo, aun pendientes",
+   "categoryTitle":"Domingo, Actualizadas 29",
    "categoryItemList": [
 
        {
@@ -179,7 +179,113 @@
          "movieName": "Servicio de Predicación Domingo PM",
          "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
 
-         }
+         },
+         {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FCaminando%20Seg%C3%BAn%20El%20Dise%C3%B1o%20del%20Universo_%20El%20Trabajo%20-%20Hno.%20Kevin%20Taylor.mp4?alt=media&token=3e20db55-eb53-45e2-9a26-414cf17d0969",
+        "id": 19,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_taylor.png?alt=media&token=120a86b4-b0a2-40d7-9cdd-903ca2735a61",
+        "movieName": "Caminando Según El Diseño del Universo",
+        "descriPcion": "Iglesia Bautista Fundamental, Pastor Kevin Taylor."
+
+       },
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FLa%20Ideolog%C3%ADa%20de%20g%C3%A9nero-%20-%20Dr.%20Rafael%20Tavares.mp4?alt=media&token=87d86d05-97b8-40aa-99f4-8dc2312e6e47",
+          "id": 20,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Frobert%20walker.png?alt=media&token=1a53f41b-7a1b-421a-9da0-b2ce857330ba",
+          "movieName": "La Ideología de género",
+          "descriPcion": "Iglesia Bautista El Camino, Pastor Robert Walker, Dr. Rafael Tavares"
+
+       },
+
+       {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FServicio%20de%20Predicaci%C3%B3n%20-%20Pastor%20Roberto%20Walker.mp4?alt=media&token=3ef973db-adcc-4bef-9706-cd2ea2c91128",
+          "id": 21,
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Frobert%20walker.png?alt=media&token=1a53f41b-7a1b-421a-9da0-b2ce857330ba",
+          "movieName": "Servicio de Predicación",
+          "descriPcion": "Iglesia Bautista El Camino, Pastor Robert Walker"
+
+       },
+
+          {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FLo%20Que%20No%20Puede%20Hacer%20Mam%C3%A1.mp4?alt=media&token=b07244a3-6f6e-4f57-a28c-bbdcc365acb4",
+        "id": 22,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FPastor%20Alfredo%20Cervantes.png?alt=media&token=a1b4104a-46a3-442a-84d5-4e1777b82ca6",
+        "movieName": "Lo Que No Puede Hacer Mamá",
+        "descriPcion": "Iglesia Bautista Fe de Canoga Park, Pastor Alfredo Cervantes"
+
+       },
+ 
+       {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FOh%20mujer%2C%20grande%20es%20tu%20fe.-%20-%20Pastor%20J.%20Moises%20Herrera.mp4?alt=media&token=9a7781be-49be-402f-b936-09946950254a",
+         "id": 23,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fj.MoisesHerrera.png?alt=media&token=2810e680-630d-4813-b39b-fc8e80a194da",
+         "movieName": "Oh mujer, grande es tu fe",
+         "descriPcion": "Iglesia Iglesia Bautista,  Pastor J. Moises Herrera"
+     },
+
+      {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FSe%20Levant%C3%B3%20Para%20Servir%20_%20Pastor%20J.%20Moises%20Herrera.mp4?alt=media&token=9c13fc9f-7443-4d5a-824d-68fa722cb97f",
+         "id": 24,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fj.MoisesHerrera.png?alt=media&token=2810e680-630d-4813-b39b-fc8e80a194da",
+         "movieName": "Se Levantó Para Servir",
+         "descriPcion": "Iglesia Iglesia Bautista,  Pastor J. Moises Herrera"
+            },
+
+
+       {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FServicio%20-%20Domingo%2008%20de%20Mayo%2C%202022.mp4?alt=media&token=77ea9d39-cc34-4c49-bb45-c5adca3abaf0",
+         "id": 25,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fgil%20torres.png?alt=media&token=33e3fe39-497c-4c0e-b845-881ccf1e4aa5",
+         "movieName":"Servicio Domingo",
+         "descriPcion":"Iglesia Bautista El Faro, Pastor Gil Torres"
+            },
+         
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FTransmisi%C3%B3n%20en%20vivo%20de%20Iglesia%20Bautista%20Fundamental.mp4?alt=media&token=a6c3053b-2bce-4aac-91df-d35c5bd9f097",
+         "id": 26,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FWalkerEcheverria.png?alt=media&token=f1f95f9f-fb41-4774-a339-39301c59b86e",
+         "movieName": "Servicio del Domingo AM",
+         "descriPcion": "Iglesia Bautista Fundamental, Pastor Walter Echeverria"
+
+       },
+
+             {
+
+          "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FTransmisi%C3%B3n%20en%20vivo%20de%20Iglesia%20Bautista%20Fundamental_2.mp4?alt=media&token=369fd169-1239-4804-9684-87bf3f06e2ec",
+          "id": 27,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FWalkerEcheverria.png?alt=media&token=f1f95f9f-fb41-4774-a339-39301c59b86e",
+         "movieName": "Servicio del Domingo PM",
+         "descriPcion": "Iglesia Bautista Fundamental, Pastor Walter Echeverria"
+         },
+
+        {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FUn%20Mensaje%20Alentador%20Para%20Las%20Madres%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=6a41abf8-7ae9-4791-beef-1e9bc0ed2ff1",
+          "id": 28,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
+        "movieName": "Un Mensaje Alentador Para Las Madres",
+        "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
+
+       },
+
+        {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FUna%20Madre-%20Pastor%20Elmer%20Fen%C3%A1ndez%20Servicio%20Domingo%20Am%205_8_22%20(Feliz%20D%C3%ADa%20de%20Las%20Madres).mp4?alt=media&token=54be8813-7c59-4991-8f6d-3f9daddc96b6",
+         "id": 29,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
+        "movieName": "Una Madre",
+        "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
+
+       }
       ]
   
     },
