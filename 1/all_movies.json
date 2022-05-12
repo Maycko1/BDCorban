@@ -3,6 +3,99 @@
 
    {
    "categoryId": "18",
+   "categoryTitle":"Servicio Miercoles",
+   "categoryItemList": [
+
+       {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FCulto%20Dominical%20Vespertino.mp4?alt=media&token=eabe73f2-d459-4221-b3ca-92731cadddb7",
+        "id": 1,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
+        "movieName": "Culto Dominical Vespertino",
+        "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos"
+            },
+
+             {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FCulto%20de%20Estudio%20y%20Oraci%C3%B3n.mp4?alt=media&token=0498f240-32ee-4564-9ea6-84869be922ed",
+        "id": 2,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Falejando_ramirez.png?alt=media&token=27e2075d-f1c7-43f0-951f-d94660c6dca7",
+        "movieName": "Culto de Estudio y Oración",
+        "descriPcion": "Iglesia Bautista Monte Abarim , Pastor Alejandro Ramirez"
+
+         },
+
+        {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FEl%20Uso%20Leg%C3%ADtimo%20De%20La%20Ley%20_%201%20Timoteo%201-5-11%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=5db3cb20-f47a-4e37-857e-d0dc6c32d63d",
+        "id": 3,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
+        "movieName": "El Uso Legítimo De La Ley",
+        "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
+
+       },
+
+       
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FMi%C3%A9rcoles%2011%20de%20Mayo%20de%202022%2019_30%20Pm%20hrs.Dr.Kevin%20T.Wynne.mp4?alt=media&token=9d7321f7-da5b-424b-9475-8ef25c408deb",
+         "id": 4,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
+         "movieName": "Dia Miercoles",
+         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
+
+       },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FO.%20y%20E.B.%2011%20de%20Mayo%20del%202022.mp4?alt=media&token=887a0872-9fc5-47d2-9abc-261b5b582170",
+         "id": 5,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjose%20aguero.png?alt=media&token=58899a56-054a-4b83-a08d-61baeae77f29",
+         "movieName": "Sevicio de Miercoles",
+         "descriPcion":" Iglesia Bautista Fundamental, Republica Dominicana, Pastor Jose Aguero"
+
+       },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FPastor%20Elmer%20Fer%C3%A1ndez%20%C2%BFT%C3%BA%2C%20Qui%C3%A9n%20Eres-%20Servicio%20Mi%C3%A9rcoles%205_11_2022.mp4?alt=media&token=a93eab0c-e132-4971-b864-9b13b454babf",
+         "id": 6,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
+        "movieName": "¿Tú, Quién Eres?",
+        "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
+
+       },
+ 
+       {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FPastor%20H%C3%A9ctor%20%C3%81vila%20Lara-%20Cuida%20el%20Coraz%C3%B3n%20de%20Tus%20Hijos..mp4?alt=media&token=1ad06b35-c3fc-41b5-9bf9-7bb1c1cdc590",
+        "id": 7,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
+        "movieName": "Cuida el Corazón de Tus Hijos",
+        "descriPcion": "Iglesia Bautista Monte Sinai Oficial , Pastor: Hector Avila Lara"
+     },
+
+        {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FServicio%20de%20Predicaci%C3%B3n.mp4?alt=media&token=84d6c6f9-3564-4825-b583-c41142d69005",
+         "id": 8,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
+         "movieName": "Servicio del Miercoles",
+         "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
+        },
+      {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FServicio%20del%20Miercoles%20por%20la%20noche%20%2005_11_22.mp4?alt=media&token=54af3546-65a1-453b-9cca-c695a3519dc4",
+         "id": 9,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
+         "movieName": "Servicio del Miercoles",
+         "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
+            }
+      ]
+  
+    },
+{
+   "categoryId": "18",
    "categoryTitle":"Domingo, Actualizadas 29",
    "categoryItemList": [
 
