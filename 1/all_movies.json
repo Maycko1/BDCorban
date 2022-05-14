@@ -3,7 +3,7 @@
 
    {
    "categoryId": "18",
-   "categoryTitle":"Servicio Miercoles",
+   "categoryTitle":"Miercoles y Jueves",
    "categoryItemList": [
 
        {
@@ -90,13 +90,60 @@
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
          "movieName": "Servicio del Miercoles",
          "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
-            }
+            },
+
+        {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FJueves%2012%20de%20Mayo%20de%202022%2019_30%20Pm%20hrs.Dr.Kevin%20T.Wynne.mp4?alt=media&token=75420de1-19c6-42a8-a324-cdab75d691ae",
+        "id": 10,
+                 "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
+         "movieName": "Culto del Jueves",
+         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
+       }, 
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FQuitad%20La%20Piedra%20-%20Evangelista%20Benjamin%20Garlick.mp4?alt=media&token=35bd3ffa-1041-4eba-8857-642296a2f2e5",
+         "id": 11,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
+         "movieName": "Quitad La Piedra",
+         "descriPcion": "Iglesia Bautista Montecito, Dr. Ezequiel Salazar, Evangelista Benjamin Garlick"
+
+       },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FServicio%20-%20Mi%C3%A9rcoles%2011%20de%20Mayo%2C%202022.mp4?alt=media&token=4401ebb1-2322-4300-9c48-418e1e20b1bd",
+         "id": 12,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fgil%20torres.png?alt=media&token=33e3fe39-497c-4c0e-b845-881ccf1e4aa5",
+         "movieName":"Servicio Miércoles",
+         "descriPcion":"Iglesia Bautista El Faro, Pastor Gil Torres"
+
+       },
+
+       {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FServicio%20de%20Mi%C3%A9rcoles.mp4?alt=media&token=f66f0ed6-c634-4d23-aee5-61b812092a57",
+        "id": 13,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FPastor%20Alfredo%20Cervantes.png?alt=media&token=a1b4104a-46a3-442a-84d5-4e1777b82ca6",
+        "movieName": "Servicio del Miercoles",
+        "descriPcion": "Iglesia Bautista Fe de Canoga Park, Pastor Alfredo Cervantes"
+
+       },
+ 
+       {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N16-11-05%2FUn%20amor%20nacido%20de%20coraz%C3%B3n%20limpio%20-%201%20Timoteo%201-5.mp4?alt=media&token=e8d78c48-b7e3-439d-80a4-e97380976c48",
+         "id": 14,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fdavid_cortes.png?alt=media&token=1b796a02-7e14-4e09-a978-a33d8398a8ad",
+        "movieName": "Un amor nacido de corazón limpio",
+        "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña"
+         }
       ]
   
     },
 {
    "categoryId": "18",
-   "categoryTitle":"Domingo, Actualizadas 29",
+   "categoryTitle":"Semana Pasada",
    "categoryItemList": [
 
        {
@@ -378,19 +425,11 @@
         "movieName": "Una Madre",
         "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
 
-       }
-      ]
-  
-    },
-{
-   "categoryId": "17",
-   "categoryTitle":"Miercoles y Jueves",
-   "categoryItemList": [
-
+       },
        {
 
         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FEstudio%20Biblico%20Miercoles%20%2005_04_22.mp4?alt=media&token=fc1accd7-3491-4941-9504-b37e3b9a2aae",
-        "id": 1,
+        "id": 30,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
          "movieName": "Estudio Biblico Miercoles",
          "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
@@ -399,7 +438,7 @@
              {
 
         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FFacebook.mp4?alt=media&token=9155a1d8-30e3-4c4d-adfc-432d8cea7566",
-        "id": 2,
+        "id": 31,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
          "movieName": "Servicio del Miercoles",
          "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
@@ -409,7 +448,7 @@
         {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FInstrucciones%20en%20el%20Matrimonio%20-%20Hno.%20Kevin%20Taylor.mp4?alt=media&token=1b66a0f7-c350-4f74-9b10-7c9da21db150",
-        "id": 3,
+        "id": 32,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_taylor.png?alt=media&token=120a86b4-b0a2-40d7-9cdd-903ca2735a61",
         "movieName": "Instrucciones en el Matrimonio",
         "descriPcion": "Iglesia Bautista Fundamental, Pastor Kevin Taylor."
@@ -420,7 +459,7 @@
        {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FMisionero%20Johnny%20Robles.mp4?alt=media&token=26de2c42-5a0c-47df-8658-a54e13361d63",
-        "id": 4,
+        "id": 33,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjorge%20rocha.png?alt=media&token=97141872-b174-4d85-855a-54f94cae2c64",
         "movieName": "Culto de Estuio y Oración",
         "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Jorge Rocha, Predicador:"
@@ -430,7 +469,7 @@
        {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FPastor%20H%C3%A9ctor%20%C3%81vila%20Lara-%20Los%20Grandes%20H%C3%A9roes%20de%20la%20Fe.mp4?alt=media&token=223f9264-73b6-4b4d-a193-6b2d721dea9f",
-        "id": 5,
+        "id": 34,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
         "movieName": "Los Grandes Héroes de la Fe",
         "descriPcion": "Iglesia Bautista Monte Sinai Oficial , Pastor: Hector Avila Lara"
@@ -440,7 +479,7 @@
        {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FSalvaci%C3%B3n%20Sencilla%20-%20Hno.%20Kevin%20Taylor.mp4?alt=media&token=8ddf4d76-e1f3-4f6c-ac7d-ea71ce9c2f9e",
-        "id": 6,
+        "id": 35,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_taylor.png?alt=media&token=120a86b4-b0a2-40d7-9cdd-903ca2735a61",
         "movieName": "Salvación sencilla",
         "descriPcion": "Iglesia Bautista Fundamental, Pastor Kevin Taylor."
@@ -450,7 +489,7 @@
        {
 
         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FServicio%20de%20Estudio%20y%20Oraci%C3%B3n.mp4?alt=media&token=10ee6703-e41a-42ae-8a74-40531ec6f8f2",
-        "id": 7,
+        "id": 36,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Falejando_ramirez.png?alt=media&token=27e2075d-f1c7-43f0-951f-d94660c6dca7",
         "movieName": "Servicio de Estudio y Oración",
         "descriPcion": "Iglesia Bautista Monte Abarim , Pastor Alejandro Ramirez"
@@ -459,7 +498,7 @@
         {
 
         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FServicio%20de%20Predicaci%C3%B3n.mp4?alt=media&token=c9915399-4f87-421e-a89b-c355bfd5db2a",
-        "id": 16,
+        "id": 37,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
          "movieName": "Servicio del Miercoles",
          "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
@@ -468,7 +507,7 @@
             {
 
          "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FDerramare%CC%81%20Aguas%20Sobre%20El%20Sequedal%20-%20Dr.%20Ezequiel%20Salazar%2C%20Jr.mp4?alt=media&token=5f1cdad3-b5d7-46f7-9d94-f2a545a2f230",
-         "id": 8,
+         "id": 38,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
          "movieName": "Derramaré Aguas Sobre El Sequedal",
          "descriPcion": "Iglesia Bautista Montecito, Dr. Ezequiel Salazar, Jr."
@@ -477,7 +516,7 @@
              {
 
          "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FEl%20Amor%20Es%20Paciente.mp4?alt=media&token=907b72e6-072f-4693-8c62-a8688843c82c",
-         "id": 9,
+         "id": 39,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FPastor%20Alfredo%20Cervantes.png?alt=media&token=a1b4104a-46a3-442a-84d5-4e1777b82ca6",
         "movieName": "El Amor Es Paciente",
         "descriPcion": "Iglesia Bautista Fe de Canoga Park, Pastor Alfredo Cervantes"
@@ -486,7 +525,7 @@
          {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FFacebook.mp4?alt=media&token=9af22e8f-0d08-4104-8b1c-6e5a4496da00",
-         "id": 11,
+         "id": 40,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
          "movieName": "Culto del Jueves",
          "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
@@ -496,7 +535,7 @@
         {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FO.%20y%20E.B.%204%20de%20Mayo%20del%202022.mp4?alt=media&token=366ea866-6737-436a-9941-95e4153818b1",
-        "id": 10,
+        "id": 41,
          "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjose%20aguero.png?alt=media&token=58899a56-054a-4b83-a08d-61baeae77f29",
          "movieName": "Servicio del dia Jueves",
          "descriPcion":" Iglesia Bautista Fundamental, Republica Dominicana, Pastor Jose Aguero"
@@ -505,7 +544,7 @@
           {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FPastor%20Gil%20Torres%20(%C2%BFQu%C3%A9%20Importante%20Es%20La%20Iglesia%20Para%20Dios_)%20Servicio%20Mi%C3%A9rcoles%205_4_2022.mp4?alt=media&token=88b7ed93-da01-4ff8-9c9a-e2a1ebd4529a",
-        "id": 17,
+        "id": 42,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
         "movieName": "¿Qué Importante Es La Iglesia Para Dios",
         "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández, Predicador: Gil Torres"
@@ -515,21 +554,19 @@
        {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N15-05-04%2FTransmisi%C3%B3n%20en%20vivo%20de%20Iglesia%20Bautista%20Fundamental.mp4?alt=media&token=1f74faae-2a6e-4e71-8484-534ce31aec54",
-         "id": 12,
+         "id": 43,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FWalkerEcheverria.png?alt=media&token=f1f95f9f-fb41-4774-a339-39301c59b86e",
          "movieName": "Servicio del Miercoles",
          "descriPcion": "Iglesia Bautista Fundamental, Pastor Walter Echeverria"
 
          }
-
-       ]
+      ]
   
-      },
-
+    },
 
     {
    "categoryId": "16",
-   "categoryTitle":"Semana Pasada",
+   "categoryTitle":"Semana Pasada 2",
    "categoryItemList": [
 
        {
@@ -964,7 +1001,7 @@
 
    {
    "categoryId": "14",
-   "categoryTitle":"Semana Pasada 2",
+   "categoryTitle":"Semana Pasada 3",
    "categoryItemList": [
 
        {
@@ -1401,7 +1438,7 @@
    
    
    "categoryId": "11",
-   "categoryTitle":"Semana Pasada 3",
+   "categoryTitle":"Semana Pasada 4",
    "categoryItemList": [
 
 {
