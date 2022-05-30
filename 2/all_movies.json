@@ -128,6 +128,8 @@
   "categoryTitle":"Rapto",
   "categoryItemList": [
 
+
+
        {
 
           "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FEl%20Rapto%20-%20Pastor%20Andr%C3%A9s%20G%C3%B3mez%2C%20Jr.%2003_22_20%20Domingo%20AM.mp4?alt=media&token=8b935993-d39e-4af1-b77c-46b1d7d19557",
@@ -159,6 +161,15 @@
         "movieName": "Los Siete Sellos - La Gran Tribulacion",
         "descriPcion": "Iglesia Bautista Montecito, Dr. Ezequiel Salazar, Jr."
 
+
+       },
+        {
+
+          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FLa%20Segunda%20Venida%20de%20Cristo%20-%20Pastor%20David%20Cort%C3%A9s%20Pe%C3%B1a.mp4?alt=media&token=06f1aaea-9ec7-42ac-932a-b3e3adf1a7a4",
+          "id": 4,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fdavid_cortes.png?alt=media&token=1b796a02-7e14-4e09-a978-a33d8398a8ad",
+         "movieName": "La Segunda Venida de Cristo",
+         "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña"
 
        } 
       ]
