@@ -181,6 +181,15 @@
          "movieName": "La Segunda Venida de Cristo",
          "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña"
 
+       }, 
+       {
+
+       "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Doctrina%2FLa%20Segunda%20Venida%20de%20Cristo%20con%20Poder%20y%20Gran%20Gloria.mp4?alt=media&token=aeb3965c-50b9-46c7-8a9d-0781ed492b74",
+          "id": 4,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fdavid_cortes.png?alt=media&token=1b796a02-7e14-4e09-a978-a33d8398a8ad",
+         "movieName": "La Segunda Venida de Cristo con Poder",
+         "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña"
+
        } 
       ]
 
