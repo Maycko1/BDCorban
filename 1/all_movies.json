@@ -3,7 +3,7 @@
 
    {
    "categoryId": "7",
-   "categoryTitle":"Domimgo, aun pendientes",
+   "categoryTitle":"Domimgo 27 Predicas",
    "categoryItemList": [
 
         {
@@ -176,6 +176,91 @@
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_parada.png?alt=media&token=a1a1f0eb-bc06-49c2-acf5-b164a5ef5c73",
          "movieName": "Servicio del Domingo PM",
          "descriPcion": "Iglesia Bautista Bíblica de Long Beach. Predicador: Pastor Luis Parada"
+         },
+         {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2FComo%20Influir%20Tu%20Mundo.mp4?alt=media&token=061b04f6-8fd6-4115-94ee-48b13c4ca8e6",
+         "id": 19,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FPastor%20Alfredo%20Cervantes.png?alt=media&token=a1b4104a-46a3-442a-84d5-4e1777b82ca6",
+         "movieName": "Como Influir Tu Mundo",
+         "descriPcion": "Iglesia Bautista Fe de Canoga Park, Pastor Alfredo Cervantes"
+
+       },
+        {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2FLa%20Sanidad%20Del%20Hijo%3B%20Del%20Principe%20-%20Hno.%20Kevin%20Taylor.mp4?alt=media&token=2cee14f5-0a2d-46f4-831b-716956ed218c",
+        "id": 20,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_taylor.png?alt=media&token=120a86b4-b0a2-40d7-9cdd-903ca2735a61",
+        "movieName": "La Sanidad Del Hijo",
+        "descriPcion": "Iglesia Bautista Fundamental, Pastor Kevin Taylor."
+
+            },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2FServicio%20-%20Domingo%2005%20de%20Junio%2C%202022.mp4?alt=media&token=ed985833-be6a-4e58-b013-3f6acfe720a6",
+         "id": 21,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fgil%20torres.png?alt=media&token=33e3fe39-497c-4c0e-b845-881ccf1e4aa5",
+         "movieName":"Servicio del Domingo",
+         "descriPcion":"Iglesia Bautista El Faro, Pastor Gil Torres"
+
+       },
+
+          {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2FServicio%20En%20Vivo%20-%20Domingo%20En%20La%20Ma%C3%B1ana.mp4?alt=media&token=21ca2715-74dc-42bd-a1e7-7dfbeaea522b",
+         "id": 22,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
+         "movieName": "Servicio del Domingo",
+         "descriPcion": "Iglesia Bautista Montecito, Dr. Ezequiel Salazar, Predicador"
+
+       },
+ 
+       {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2FServicio%20en%20Vivo%20-%20Iglesia%20Bautista%20Libertad.mp4?alt=media&token=5e7ae709-6437-4568-ba85-610b43dacf64",
+         "id": 23,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
+         "movieName": "Servicio de Domingo",
+         "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
+     },
+
+      {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2FServicio%20matutino%2005%20de%20junio_2.mp4?alt=media&token=7e7db3a8-0422-4e26-a7e7-2feccefb3e8a",
+         "id": 24,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Falejando_ramirez.png?alt=media&token=27e2075d-f1c7-43f0-951f-d94660c6dca7",
+         "movieName": "El gozo del senor es nuestra fuerza",
+         "descriPcion": "Iglesia Bautista Monte Abarim , Pastor Alejandro Ramirez"
+            },
+
+
+       {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2FSigue%20Confiando%20en%20Dios%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=2c63d67f-3bd0-4280-ba1c-23a2a72daba5",
+         "id": 25,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
+         "movieName": "Sigue confiando en Dios",
+         "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
+            },
+         
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2FTransmisi%C3%B3n%20en%20vivo%20de%20Iglesia%20Bautista%20Fundamental.mp4?alt=media&token=e40930a8-623c-4a77-a8bb-9efc314659e6",
+         "id": 26,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FWalkerEcheverria.png?alt=media&token=f1f95f9f-fb41-4774-a339-39301c59b86e",
+         "movieName": "Servicio del Domingo",
+         "descriPcion": "Iglesia Bautista Fundamental, Pastor Walter Echeverria"
+
+       },
+
+             {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2F%F0%9F%94%B4Servicio%20en%20Vivo%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=8af2d5c7-89f8-4c4d-80ee-cb401ed548b3",
+         "id": 27,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FJorge%20Ayala.png?alt=media&token=1a362381-66df-45e0-9667-045478cf19f1",
+         "movieName": "Servicio del Domingo",
+         "descriPcion": "Iglesia Bautista de Anaheim, Pastor Jorge Ayala
          }
       ]
   
