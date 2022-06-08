@@ -148,10 +148,8 @@
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
          "movieName": "Servicio de Domingo PM",
          "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
-     },
-
-     
-        {
+        },
+       {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2FServicio%20Domingo%20Am%20%20(5%20Junio%202022)%20Pastor%20Fern%C3%A1ndez%20Tema_%20El%20pecado%20que%20Dios%20m%C3%A1s%20aborrece.mp4?alt=media&token=8a4c5daa-6631-4dee-bff4-87aa6bd4bedd",
         "id": 16,
@@ -233,9 +231,7 @@
          "movieName": "El gozo del senor es nuestra fuerza",
          "descriPcion": "Iglesia Bautista Monte Abarim , Pastor Alejandro Ramirez"
             },
-
-
-       {
+          {
 
          "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2FSigue%20Confiando%20en%20Dios%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=2c63d67f-3bd0-4280-ba1c-23a2a72daba5",
          "id": 25,
@@ -244,7 +240,7 @@
          "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
             },
          
-       {
+          {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2FTransmisi%C3%B3n%20en%20vivo%20de%20Iglesia%20Bautista%20Fundamental.mp4?alt=media&token=e40930a8-623c-4a77-a8bb-9efc314659e6",
          "id": 26,
@@ -253,14 +249,13 @@
          "descriPcion": "Iglesia Bautista Fundamental, Pastor Walter Echeverria"
 
        },
-
              {
 
          "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N19-01-06%2F%F0%9F%94%B4Servicio%20en%20Vivo%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=8af2d5c7-89f8-4c4d-80ee-cb401ed548b3",
          "id": 27,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FJorge%20Ayala.png?alt=media&token=1a362381-66df-45e0-9667-045478cf19f1",
          "movieName": "Servicio del Domingo",
-         "descriPcion": "Iglesia Bautista de Anaheim, Pastor Jorge Ayala
+         "descriPcion": "Iglesia Bautista de Anaheim, Pastor Jorge Ayala"
          }
       ]
   
