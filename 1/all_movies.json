@@ -176,7 +176,7 @@
 
 
          },
- {
+         {
 
          "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FServicio%20del%20Domingo%20PM%2006_12_22.mp4?alt=media&token=eebaa497-e2b0-48ad-bd7c-2cdbcd6a319d",
          "id": 20,
@@ -194,7 +194,7 @@
          "movieName": "Un Almuerzo con Jesus",
          "descriPcion": "Iglesia Bautista Fe de Canoga Park, Pastor Alfredo Cervantes"
 
-       },
+       }
 
 
       ]
