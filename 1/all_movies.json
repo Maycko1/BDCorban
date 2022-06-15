@@ -3,7 +3,7 @@
 
  {
    "categoryId": "20",
-   "categoryTitle":"Domingo, aun pendientes",
+   "categoryTitle":"Domingo, Actualizadas",
    "categoryItemList": [
 
         {
@@ -14,11 +14,19 @@
          "movieName": "Evidencia a través de de Nuestra Conducta",
          "descriPcion":" Iglesia Bautista Fundamental, Republica Dominicana, Pastor Jose Aguero"
             },
+          {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FQuebrantamiento-%20Qu%C3%A9%20es%20y%20Por%20qu%C3%A9%20-%20Isa%C3%ADas%2057-15%20-%20Ps.%20Pedro%20da%20Cunha.mp4?alt=media&token=c54da86e-cafc-4bcd-8814-f16cd3df22fa",
+         "id": 2,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjose%20aguero.png?alt=media&token=58899a56-054a-4b83-a08d-61baeae77f29",
+         "movieName": "Quebrantamiento- Qué es y Por qué?",
+         "descriPcion":" Iglesia Bautista Fundamental, Republica Dominicana, Pastor Jose Aguero, Predicador"
+            },
 
              {
 
         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FConferencia%20de%20la%20familia%202022-%20El%20Prop%C3%B3sito%20de%20la%20Uni%C3%B3n%20Matrimonial_%20Predicador%20Omar%20Vera..mp4?alt=media&token=7297caf2-a2d4-4893-83e7-4a82cb35f2cb",
-        "id": 2,
+        "id": 3,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
         "movieName": "El Propósito de la Unión Matrimonial",
         "descriPcion": "Iglesia Bautista Monte Sinai Oficial , Pastor: Hector Avila Lara, Predicador Omar Vera"
@@ -29,7 +37,7 @@
            {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FCr%C3%B3nica%20del%20Alejamiento%20de%20Dios_2.mp4?alt=media&token=cca71577-e42d-422a-aa51-ba6bc7e42d64",
-         "id": 3,
+         "id": 4,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Falejando_ramirez.png?alt=media&token=27e2075d-f1c7-43f0-951f-d94660c6dca7",
          "movieName": "Crónica del Alejamiento de Dios",
          "descriPcion": "Iglesia Bautista Monte Abarim , Pastor Alejandro Ramirez"
@@ -38,7 +46,7 @@
        {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FCuando%20se%20extrav%C3%ADan%20los%20sentidos%20-%20II%20Co%2011-1-3%20-%20Pastor%20David%20Cort%C3%A9s%20Pe%C3%B1a.mp4?alt=media&token=b77592ab-8b50-4fde-9967-49c10f6da3bc",
-        "id": 4,
+        "id": 5,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fdavid_cortes.png?alt=media&token=1b796a02-7e14-4e09-a978-a33d8398a8ad",
         "movieName": "Cuando se extravían los sentidos",
         "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña"
@@ -47,7 +55,7 @@
        {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FCulto%20Dominical%20Matutino.mp4?alt=media&token=f19ade6d-aebd-48a5-afd9-c21fff840822",
-        "id": 5,
+        "id": 6,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
         "movieName": "Culto Dominical Matutino",
         "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos"
@@ -57,7 +65,7 @@
        {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FCulto%20Dominical%20Vespertino%20-%20Pastor%20Luis%20Ramos.mp4?alt=media&token=3f4e0135-605c-44d2-b9d7-49809c5a7001",
-        "id": 6,
+        "id": 7,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
         "movieName": "Culto Dominical Vespertino",
         "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos"
@@ -66,7 +74,7 @@
        {
 
         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FCulto%20Dominical%20de%20Mediod%C3%ADa.mp4?alt=media&token=20889f96-112f-4d7a-b935-3e7f03626c7e",
-        "id": 7,
+        "id": 8,
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
         "movieName": "Culto Dominical Mediodía",
         "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos"
@@ -75,7 +83,7 @@
       {
 
          "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FDomingo%2012%20%20de%20Junio%20de%202022%2011_45%20%20Hrs.Dr.Kevin%20T.Wynne%20Culto%20_B_%20Y%20escuela%20Dominical.mp4?alt=media&token=2aecdce8-d038-45d4-9291-38931ae072bc",
-         "id": 8,
+         "id": 9,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
          "movieName": "Servico Domingo Mediodia",
          "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
@@ -83,15 +91,24 @@
          {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FDomingo%2012%20%20de%20Junio%20de%202022%208_45%20Hrs.Dr.Kevin%20T.Wynne%20Culto%20A%20Y%20escuela%20Dominical.mp4?alt=media&token=61947e2f-2eed-4c9f-9042-59ddff35b835",
-         "id": 9,
+         "id": 10,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
          "movieName": "Servico Domingo AM",
          "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
          },
          {
 
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FDomingo%2012%20Junio%20de%202022%2019_00%20Pm%20Hrs%20Dr.Kevin%20T.Wynne.mp4?alt=media&token=a5697292-7928-4154-a8f2-c0f027f7ba83",
+         "id": 11,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
+         "movieName": "Servico Domingo PM",
+         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
+         },
+
+         {
+
          "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2F_La%20esperanza%20que%20se%20demora%20es%20tormento%20del%20coraz%C3%B3n%3B%20Pero%20%C3%A1rbol%20de%20vida%20es%20el%20deseo%20cumplido._.mp4?alt=media&token=98cdaee3-20ef-448f-96c0-6ff51e914398",
-         "id": 10,
+         "id": 12,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Falejando_ramirez.png?alt=media&token=27e2075d-f1c7-43f0-951f-d94660c6dca7",
          "movieName": "La esperanza que se demora es tormento del corazón",
          "descriPcion": "Iglesia Bautista Monte Abarim , Pastor Alejandro Ramirez"
@@ -100,7 +117,7 @@
            {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2F%F0%9F%94%B4Servicio%20en%20Vivo%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=8ed31905-db92-46a3-b0f6-d315869367c6",
-         "id": 11,
+         "id": 13,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FJorge%20Ayala.png?alt=media&token=1a362381-66df-45e0-9667-045478cf19f1",
          "movieName": "Un hombre conforme al corazon de Dios",
          "descriPcion": "Iglesia Bautista de Anaheim, Pastor Jorge Ayala"
@@ -110,12 +127,76 @@
        {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2F%F0%9F%94%B4Servicio%20en%20Vivo%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental)2.mp4?alt=media&token=af82769b-2ce7-4f6f-9492-3f7f99589edf",
-         "id": 12,
+         "id": 14,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FJorge%20Ayala.png?alt=media&token=1a362381-66df-45e0-9667-045478cf19f1",
          "movieName": "Servicio del Domingo",
          "descriPcion": "Iglesia Bautista de Anaheim, Pastor Jorge Ayala"
 
-       }
+       },
+        {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FSalvo%20Sin%20Ninguna%20Duda%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=f815c221-0e52-48af-b824-9fbc547d9ee9",
+        "id": 15,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
+        "movieName": "Salvo Sin Ninguna Duda",
+        "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
+
+
+         },
+          {
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FServicio%20Domingo%20Am%206_12_2022%20Pastor%20Elmer%20Fern%C3%A1ndez%20Tema_%20La%20Sabidur%C3%ADa%20de%20Dios.mp4?alt=media&token=611f82e2-9770-41a5-9ca7-d204a689a6e5",
+        "id": 16,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
+        "movieName": "La Sabiduría de Dios",
+        "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
+           },
+         {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FServicio%20de%20Domingo%20-%206-12-22%20-%2012-00%20PM.mp4?alt=media&token=6b0cae91-5988-4b6e-9ebe-2bdef35c6041",
+         "id": 17,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_parada.png?alt=media&token=a1a1f0eb-bc06-49c2-acf5-b164a5ef5c73",
+         "movieName": "Servicio del Domingo PM",
+         "descriPcion": "Iglesia Bautista Bíblica de Long Beach. Predicador: Pastor Luis Parada"
+         },
+         {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FServicio%20de%20Domingo%20AM%20-%2012%20de%20junio.mp4?alt=media&token=f16d0e5d-92af-472c-b041-cec432974e34",
+         "id": 18,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
+         "movieName": "Servicio del Domingo",
+         "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
+         },
+             {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FServicio%20del%20Domingo%20AM%2006_12_22.mp4?alt=media&token=7ee281fd-a6a2-46ab-9ad1-d2b5fda902fe",
+         "id": 19,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
+         "movieName": "Servicio del Domingo AM",
+         "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
+
+
+         },
+ {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FServicio%20del%20Domingo%20PM%2006_12_22.mp4?alt=media&token=eebaa497-e2b0-48ad-bd7c-2cdbcd6a319d",
+         "id": 20,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
+         "movieName": "Servicio del Domingo PM",
+         "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
+
+
+         },
+         {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N20-06-08%2FUn%20Almuerzo%20con%20Jesus.mp4?alt=media&token=100a51d1-a8c1-4ad2-a75b-32f0c51fd9f0",
+         "id": 21,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FPastor%20Alfredo%20Cervantes.png?alt=media&token=a1b4104a-46a3-442a-84d5-4e1777b82ca6",
+         "movieName": "Un Almuerzo con Jesus",
+         "descriPcion": "Iglesia Bautista Fe de Canoga Park, Pastor Alfredo Cervantes"
+
+       },
+
+
       ]
   
     },
