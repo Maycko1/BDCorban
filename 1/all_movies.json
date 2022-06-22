@@ -3,7 +3,7 @@
 
 {
    "categoryId": "11",
-   "categoryTitle":"Domingo, aun pendientes",
+   "categoryTitle":"Domingo, Actualizada",
    "categoryItemList": [
 
         {
@@ -106,7 +106,124 @@
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fezequiel_salazar.png?alt=media&token=d7fa14be-98bd-4dc8-8619-602d528e632c",
          "movieName": "Regresando El Corazón De Los Padres A Los Hijos",
          "descriPcion": "Iglesia Bautista Montecito, Dr. Ezequiel Salazar"
-         }
+         },
+
+         {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2FDia%20del%20Padre.mp4?alt=media&token=2bff1f12-fe4b-4078-9dc1-47691da89ec1",
+         "id": 12,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FPastor%20Alfredo%20Cervantes.png?alt=media&token=a1b4104a-46a3-442a-84d5-4e1777b82ca6",
+         "movieName": "Dia del Padre",
+         "descriPcion": "Iglesia Bautista Fe de Canoga Park, Pastor Alfredo Cervantes"
+           },
+
+           {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2FServicio%20En%20Vivo%20-%20Hno.%20Kevin%20Taylor.mp4?alt=media&token=8764cc8f-6be8-4db1-b055-dbd5fd48d31b",
+        "id": 13,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_taylor.png?alt=media&token=120a86b4-b0a2-40d7-9cdd-903ca2735a61",
+        "movieName": "Servicio del Domingo",
+        "descriPcion": "Iglesia Bautista Fundamental, Pastor Kevin Taylor."
+
+       },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2FServicio%20de%20Domingo%20-%206-19-22%20-%2012-00%20PM.mp4?alt=media&token=05c94e21-8629-4376-8732-363d1e822d4c",
+         "id": 14,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_parada.png?alt=media&token=a1a1f0eb-bc06-49c2-acf5-b164a5ef5c73",
+         "movieName": "Servicio del Domingo",
+         "descriPcion": "Iglesia Bautista Bíblica de Long Beach. Predicador: Pastor Luis Parada"
+
+       },
+        {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2FServicio%20de%20Domingo%20AM%20-%2019%20de%20junio.mp4?alt=media&token=c5d6f999-ada8-45df-88be-43d59e9b34e2",
+         "id": 15,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
+         "movieName": "Servicio de Domingo AM",
+         "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
+
+
+         },
+          {
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2FServicio%20del%20Domingo%206_19_2022%20Feliz%20D%C3%ADa%20Del%20Padre%20Pastor%20Elmer%20Fern%C3%A1ndez.mp4?alt=media&token=d2eea8a9-9430-4fd0-9203-e3a3fed34531",
+        "id": 16,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
+        "movieName": "Feliz Día Del Padre Pastor",
+        "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
+           },
+         {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2FServicio%20del%20Domingo%20PM%20%2006_19_22.mp4?alt=media&token=bd610e7c-5bab-4ef5-b1b3-32eebaefe613",
+         "id": 17,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
+         "movieName": "Servicio del Domingo PM",
+         "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
+         },
+         {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2FServicio%20del%20Domingo%20Pm%206_19_2022%20Feliz%20D%C3%ADa%20Del%20Padre%20Pastor%20Andres%20Gomez%20Jr%20Tema_%20A%20Duras%20Penas.mp4?alt=media&token=158ebf85-fb5d-493e-954d-fa3bd6cf6ac6",
+        "id": 18,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
+        "movieName": "Feliz Día Del Padre Pastor",
+        "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández, Predicador Andres Gomez"
+         },
+             {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2FS%C3%A9%20el%20Padre%20que%20tus%20hijos%20necesitan%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental)%202.mp4?alt=media&token=22e7585d-6f61-4fae-8bef-b2bf1a4d7d00",
+        "id": 19,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
+        "movieName": "Sé el Padre que tus hijos necesitan",
+        "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
+
+
+         },
+         {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2FS%C3%A9%20el%20Padre%20que%20tus%20hijos%20necesitan%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=6faa6604-4673-4cca-bdb2-e9b3ef491e6b",
+        "id": 20,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FRingo%20Ayala.png?alt=media&token=4c411267-1f7c-438f-a691-95f648d6d684",
+        "movieName": "Predicacion del dia del padre",
+        "descriPcion": "Iglesia Bautista de Santa Ana, Pastor: Ringo Ayala."
+
+
+         },
+         {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2FTransmisi%C3%B3n%20en%20vivo%20de%20Iglesia%20Bautista%20Fundamental.mp4?alt=media&token=2bcafca2-90d3-4763-8d14-dec7a78eca89",
+         "id": 21,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FWalkerEcheverria.png?alt=media&token=f1f95f9f-fb41-4774-a339-39301c59b86e",
+         "movieName": "Servicio del Domingo",
+         "descriPcion": "Iglesia Bautista Fundamental, Pastor Walter Echeverria"
+
+       },
+       {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2F%C2%BFQui%C3%A9n%20nos%20apartar%C3%A1%20del%20amor%20de%20Cristo_%20_%20Pastor%20J.%20Moises%20Herrera.mp4?alt=media&token=5fa4d9c6-1bd1-4389-b1b0-3ba267dfc41b",
+         "id": 22,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fj.MoisesHerrera.png?alt=media&token=2810e680-630d-4813-b39b-fc8e80a194da",
+         "movieName": "¿Quién nos apartará del amor de Cristo",
+         "descriPcion": "Iglesia Iglesia Bautista,  Pastor J. Moises Herrera"
+            },
+
+             {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2F%F0%9F%94%B4Servicio%20en%20Vivo%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental)%202.mp4?alt=media&token=29ac1de2-77eb-476f-952e-9e0586d008ac",
+         "id": 23,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FJorge%20Ayala.png?alt=media&token=1a362381-66df-45e0-9667-045478cf19f1",
+         "movieName": "Servicio del Domingo, Enseñanza",
+         "descriPcion": "Iglesia Bautista de Anaheim, Pastor Jorge Ayala"
+         },
+         {
+
+        "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N21-15-16%2F%F0%9F%94%B4Servicio%20en%20Vivo%20(Predicaci%C3%B3n%20Bautista%2C%20Fundamental).mp4?alt=media&token=fc8cc806-340f-4a57-9a14-61f5f017c0f3",
+        "id": 24,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FJorge%20Ayala.png?alt=media&token=1a362381-66df-45e0-9667-045478cf19f1",
+         "movieName": "Servicio del Domingo",
+         "descriPcion": "Iglesia Bautista de Anaheim, Pastor Jorge Ayala"
+
+       }
       ]
   
     },
