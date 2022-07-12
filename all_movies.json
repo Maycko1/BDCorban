@@ -2,7 +2,7 @@
 [
 
  {
-   "categoryId": "19",
+   "categoryId": "20",
    "categoryTitle":"Domingo",
    "categoryItemList": [
 
@@ -23,10 +23,8 @@
         "movieName": "Culto Dominical Matutino",
         "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos"
 
-
          },
-
-                {
+           {
 
         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-26-10-07%2FFortaleceos%20En%20El%20Se%C3%B1or%20-%20Culto%20Dominical%20de%20Medio%20D%C3%ADa.mp4?alt=media&token=57f2a172-0be7-4b9e-bb7c-0a7a410e5cac",
         "id": 3,
