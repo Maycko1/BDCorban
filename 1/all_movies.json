@@ -1,6 +1,95 @@
 
 [
 
+
+{
+   "categoryId": "29",
+   "categoryTitle":"Entre Semana",
+   "categoryItemList": [
+
+        {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-29-21-07%2FCristo%20Y%20La%20Ley%20%E2%80%93%20Mateo%205_17-19%20%E2%80%93%20Pastor%20Luis%20Ramos%20Cisneros%20%E2%80%93%20Culto%20De%20Estudio%20B%C3%ADblico%20Y%20Oraci%C3%B3n.mp4?alt=media&token=bf650447-d806-4427-b605-ae5bcd81a167",
+        "id": 1,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
+         "movieName": "Cristo Y La Ley",
+         "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos"
+            },
+
+             {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-29-21-07%2FE.B.%20-%2012.%20El%20Costo%20de%20Ser%20Fiel.mp4?alt=media&token=4365843b-eda7-41e2-a79f-fc58aa5f9802",
+         "id": 2,
+         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjose%20aguero.png?alt=media&token=58899a56-054a-4b83-a08d-61baeae77f29",
+         "movieName": "El Costo de Ser Fiel",
+         "descriPcion":" Iglesia Bautista Fundamental, Republica Dominicana, Pastor Jose Aguero"
+
+
+         },
+
+                {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-29-21-07%2FLa%20vindicaci%C3%B3n%20de%20la%20mujer.mp4?alt=media&token=3a3c2b2b-6493-45ee-b588-6c6e24040bbe",
+         "id": 3,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fdavid_cortes.png?alt=media&token=1b796a02-7e14-4e09-a978-a33d8398a8ad",
+         "movieName": "La vindicación de la mujer",
+         "descriPcion": "Iglesia Bautista Puerta Abierta A.R., Pastor David Cortés Peña"
+
+       },
+
+       
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-29-21-07%2FMi%C3%A9rcoles%2020%20Julio%20de%202022%2019_30%20Pm%20Culto%20%E2%80%9CA%E2%80%9D.mp4?alt=media&token=5f73be63-205f-4178-ab22-84898c41abb6",
+         "id": 4,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
+         "movieName": "Culto dia Miercoles",
+         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
+       },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-29-21-07%2FServicio%20de%20Mi%C3%A9rcoles%20-%2020%20de%20julio.mp4?alt=media&token=5018a34f-7242-4e9f-b778-7fa2285b0e5d",
+         "id": 5,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
+         "movieName": "Servicio de Miércoles",
+         "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
+
+       },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-29-21-07%2FServicio%20de%20estudio%20y%20oraci%C3%B3n.mp4?alt=media&token=f89d84cd-146b-4b9e-8423-3cc275108fb4",
+         "id": 6,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Falejando_ramirez.png?alt=media&token=27e2075d-f1c7-43f0-951f-d94660c6dca7",
+         "movieName": "Día 4 Seminario de Música",
+         "descriPcion": "Iglesia Bautista Monte Abarim , Pastor Alejandro Ramirez"
+       },
+ 
+       {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-29-21-07%2FServicio%20del%20Mi%C3%A9rcoles%2007_20_22.mp4?alt=media&token=622668be-d9a3-4263-be3a-cefa66d99c41",
+         "id": 7,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
+         "movieName": "Aumentanos nuestra fe",
+         "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
+    
+           },
+ 
+       {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-29-21-07%2FServicio%20del%20M%C3%ADercoles%207_20_22%20Pastor%20Elmer%20Fern%C3%A1ndez%20Tema_%20Echando%20Toda%20Vuestra%20Ansiedad%20Sobre%20%C3%89l.mp4?alt=media&token=49075b2d-c086-4019-9416-961c1d8065f4",
+         "id": 8,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FElmer%20Fernandez.png?alt=media&token=9ebfabf0-5555-4e57-944f-6905fae93cbb",
+        "movieName": "Toda Vuestra Ansiedad Sobre Él",
+        "descriPcion": "Iglesia Bautista Betel, Pastor Elmer Fernández"
+         
+       }
+
+      ]
+  
+    },
+
 {
    "categoryId": "28",
    "categoryTitle":"Domingo",
@@ -221,7 +310,7 @@
 
 {
    "categoryId": "27",
-   "categoryTitle":"Entre Semana",
+   "categoryTitle":"Entre Semana 11 al 16",
    "categoryItemList": [
 
         {
