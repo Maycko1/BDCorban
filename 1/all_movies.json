@@ -116,6 +116,16 @@
          "movieName": "Servicio del Domingo AM",
          "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
          },
+       {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-30-25%2FServicio%20del%20Domingo%20PM%2007_24_22.mp4?alt=media&token=b705a0b8-13da-47dc-b252-577a1ee2e42c",
+         "id": 17,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fandres_gomez.png?alt=media&token=c67ff803-54df-44d6-88aa-1bdffb24c676",
+         "movieName": "Servicio del Domingo PM",
+         "descriPcion": "Primera Iglesia Bautista Hammond Indiana, Pastor: Andrés Gómez"
+    
+           },
+
            {
 
          "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-30-25%2FServicio%20del%20Domingo%20Am%207_24_22%20Pastor%20Elmer%20Fern%C3%A1ndez%20Tema_%20La%20Misericordia%20de%20Dios.mp4?alt=media&token=3b6f3522-8df7-46ea-ad2b-2b63014fbbb5",
@@ -285,7 +295,7 @@
 
 {
    "categoryId": "28",
-   "categoryTitle":"Domingo",
+   "categoryTitle":"Domingo 17-07",
    "categoryItemList": [
 
         {
