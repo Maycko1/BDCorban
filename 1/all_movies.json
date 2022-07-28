@@ -2,6 +2,84 @@
 [
 
 {
+   "categoryId": "31",
+   "categoryTitle":"Entre Semana",
+   "categoryItemList": [
+
+        {
+
+        "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-31-28-07%2FCulto%20De%20Estudio%20B%C3%ADblico%20-%20Pastor%20Luis%20Ramos.mp4?alt=media&token=1292c4ef-0c4f-4b3f-9543-f12752669706",
+        "id": 1,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fluis_ramos.png?alt=media&token=9a4ca3b1-fd91-48e9-bba0-9318b6442988",
+         "movieName": "Culto del Miercoles",
+         "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Luis Ramos"
+            },
+
+             {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-31-28-07%2FEstudio%20B%C3%ADblico%20-%20Pastor%20Jorge%20Rocha.mp4?alt=media&token=d13bba8a-4765-42c7-9e24-6c28e0cfc280",
+         "id": 2,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fjorge%20rocha.png?alt=media&token=97141872-b174-4d85-855a-54f94cae2c64",
+        "movieName": "Estudio Biblico",
+        "descriPcion": "Iglesia Bíblica Bautista De San Luis Potosí A. R., Pastor: Jorge Rocha"
+
+
+         },
+
+                {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-31-28-07%2FHasta%20Que%20Cristo%20Sea%20Formado%20En%20Vosotros%20-%20Pastor%20C%C3%A9sar%20Lucio.mp4?alt=media&token=172a5b4c-8898-41a6-bf29-0bd1f4600bec",
+         "id": 3,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Farturo_mu%C3%B1oz.png?alt=media&token=76838007-1b8c-4348-89ba-cc031e3e42a2",
+         "movieName": "Hasta Que Cristo Sea Formado",
+         "descriPcion": "Iglesia Cristiana Bautista,Pastor Arturo Muñoz Nuñez"
+
+       },
+
+       
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-31-28-07%2FMi%C3%A9rcoles%2027%20Julio%20de%202022%2019_30%20Pm%20Culto%20%E2%80%9CA%E2%80%9D_2.mp4?alt=media&token=6ab444e1-3fcf-45f1-a006-475d5b4e7052",
+         "id": 4,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Fkevin_wynne.png?alt=media&token=8be5f573-2669-448e-b589-ad1c7afa0277",
+         "movieName": "Culto dia Miercoles",
+         "descriPcion": "Iglesia Bautista Monte Sion, Pastor Kevin Wynne"
+       },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-31-28-07%2FServicio%20de%20Mi%C3%A9rcoles%20-%2027%20de%20julio.mp4?alt=media&token=988fecdb-b301-4c8a-b224-84c5df57c84e",
+         "id": 5,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
+         "movieName": "Servicio de Miércoles",
+         "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
+
+       },
+
+       {
+
+         "fileUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-31-28-07%2FTres%20Personajes%20en%20la%20Obra%20Misionera.mp4?alt=media&token=ea337d84-6087-471f-be5f-85efff90b890",
+         "id": 6,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Falejando_ramirez.png?alt=media&token=27e2075d-f1c7-43f0-951f-d94660c6dca7",
+         "movieName": "Tres Personajes en la Obra Misionera",
+         "descriPcion": "Iglesia Bautista Monte Abarim , Pastor Alejandro Ramirez"
+       },
+ 
+       {
+
+         "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-31-28-07%2FServicio%20de%20Mi%C3%A9rcoles%20-%2027%20de%20julio_2.mp4?alt=media&token=2226b1cf-b6a7-4587-a9f9-02d5fdef4914",
+         "id": 7,
+         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2FHector%20Avila%20Lara.png?alt=media&token=1ceba6bd-8c22-4a20-8926-deb01ebd3673",
+         "movieName": "Servicio de Miércoles",
+         "descriPcion": "Iglesia Bautista Monte Sinai Oficial , Pastor: Hector Avila Lara"
+        
+         }
+           
+      ]
+  
+    },
+
+{
    "categoryId": "30",
    "categoryTitle":"Domingo",
    "categoryItemList": [
@@ -171,7 +249,7 @@
 
 {
    "categoryId": "29",
-   "categoryTitle":"Entre Semana",
+   "categoryTitle":"Entre Semana 18-23",
    "categoryItemList": [
 
         {
