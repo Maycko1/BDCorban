@@ -1,7 +1,6 @@
 
 [
 
-
 {
    "categoryId": "32",
    "categoryTitle":"Domingo",
@@ -132,7 +131,7 @@
          "fileUrl":"https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/N-32-01-08%2FServicio%20en%20Vivo%20-%20Iglesia%20Bautista%20Libertad.mp4?alt=media&token=8622132a-53f7-422e-a11b-d5a898d551b2",
          "id": 16,
          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/apipredicas.appspot.com/o/Pastores%2Froy_carrizales.png?alt=media&token=9f669dae-08c3-427c-8f50-e3f59aa18775",
-         "movieName": "Servicio de Domingo AM,
+         "movieName": "Servicio de Domingo AM",
          "descriPcion": "Iglesia Iglesia Bautista, Pastor: Roy Carrizalez"
            },
          {
@@ -172,7 +171,8 @@
          "descriPcion": "Iglesia Bautista de Anaheim, Pastor Jorge Ayala"
         
           
-         }
+        }
+      
       ]
   
     },
